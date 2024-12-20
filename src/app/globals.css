@@ -86,3 +86,29 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+.tiptap{
+  ul,
+  ol{
+    padding:0 1rem;
+    margin: 1.25rem 1rem 1.25rem, 0.4rem;
+  }
+    ul li{
+      /* 设置列表项前面的项目符号为实心圆点。 */
+      list-style-type: disc;
+
+      p{
+        margin-top: 0.25em;
+        margin-bottom: 0.25em;
+      }
+    } 
+    ol li{
+      /* 设置列表项前面的项目符号为数字。 */
+      list-style-type: decimal;
+
+      p{
+        margin-top: 0.25em;
+        margin-bottom: 0.25em;
+      }
+    }
+}
