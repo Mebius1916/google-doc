@@ -3,6 +3,10 @@ import { useEditor, EditorContent } from '@tiptap/react'
 import StarterKit from '@tiptap/starter-kit'
 import TaskItem from '@tiptap/extension-task-item'
 import TaskList from '@tiptap/extension-task-list'
+import Table from '@tiptap/extension-table'
+import TableRow from '@tiptap/extension-table-row'
+import TableCell from '@tiptap/extension-table-cell'
+import TableHeader from '@tiptap/extension-table-header'
 export const Editor = () => {
   const editor = useEditor({
     editorProps: {
@@ -12,15 +16,32 @@ export const Editor = () => {
       },
     },
     extensions: [
-      //基础编辑器功能
       StarterKit,
-      //任务列表
+      Table,
+      TableRow,
+      TableCell,
+      TableHeader,
       TaskItem.configure({
         nested: true,
       }),
       TaskList,
     ],
-    content: '<p>Hello World! 🌎️</p>',
+    content: `
+        <table>
+          <tbody>
+            <tr>
+              <th>Name</th>
+              <th colspan="3">Description</th>
+            </tr>
+            <tr>
+              <td>Cyndi Lauper</td>
+              <td>Singer</td>
+              <td>Songwriter</td>
+              <td>Actress</td>
+            </tr>
+          </tbody>
+        </table>
+      `,
     immediatelyRender: false,
   })
   return(
