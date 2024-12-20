@@ -1,7 +1,8 @@
 'use client'
 import { useEditor, EditorContent } from '@tiptap/react'
 import StarterKit from '@tiptap/starter-kit'
-
+import TaskItem from '@tiptap/extension-task-item'
+import TaskList from '@tiptap/extension-task-list'
 export const Editor = () => {
   const editor = useEditor({
     editorProps: {
@@ -10,7 +11,15 @@ export const Editor = () => {
         style:"padding-left: 56px; padding-right:56px;",
       },
     },
-    extensions: [StarterKit],
+    extensions: [
+      //基础编辑器功能
+      StarterKit,
+      //任务列表
+      TaskItem.configure({
+        nested: true,
+      }),
+      TaskList,
+    ],
     content: '<p>Hello World! 🌎️</p>',
     immediatelyRender: false,
   })
