@@ -7,6 +7,8 @@ import Table from '@tiptap/extension-table'
 import TableRow from '@tiptap/extension-table-row'
 import TableCell from '@tiptap/extension-table-cell'
 import TableHeader from '@tiptap/extension-table-header'
+import Image from '@tiptap/extension-image'
+import ImageResize from 'tiptap-extension-resize-image'
 export const Editor = () => {
   const editor = useEditor({
     editorProps: {
@@ -18,6 +20,8 @@ export const Editor = () => {
     extensions: [
       StarterKit,
       Table,
+      Image,
+      ImageResize,
       TableRow,
       TableCell,
       TableHeader,

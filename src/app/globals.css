@@ -88,6 +88,16 @@ body {
 }
 
 .tiptap{
+  img {
+    display: block;
+    height: auto;
+    margin: 1.5rem 0;
+    max-width: 100%;
+
+    &.ProseMirror-selectednode {
+      outline: 3px solid var(--purple);
+    }
+  }
   table {
     border-collapse: collapse;
     margin: 0;
@@ -218,6 +228,7 @@ body {
         flex: 0 0 auto;
         margin-right: 0.5rem;
         user-select: none;
+        -webkit-user-select: none;
       }
 
       > div {

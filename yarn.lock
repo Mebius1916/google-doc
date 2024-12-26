@@ -1032,6 +1032,11 @@
   resolved "https://registry.npmmirror.com/@tiptap/extension-horizontal-rule/-/extension-horizontal-rule-2.10.3.tgz"
   integrity sha512-1a2IWhD00tgUNg/91RLnBvfENL7DLCui5L245+smcaLu+OXOOEpoBHawx59/M4hEpsjqvRRM79TzO9YXfopsPw==
 
+"@tiptap/extension-image@^2.10.2":
+  version "2.10.2"
+  resolved "https://registry.npmmirror.com/@tiptap/extension-image/-/extension-image-2.10.2.tgz"
+  integrity sha512-xaJOVeR/fWozJMVKjYhskecsbayUUm1tIbjE+SyG7IW3Jp+081/W9z2nyfXG6YNnuVjYq+uLejR2Bt0cnEZvmA==
+
 "@tiptap/extension-italic@^2.10.2":
   version "2.10.3"
   resolved "https://registry.npmmirror.com/@tiptap/extension-italic/-/extension-italic-2.10.3.tgz"
@@ -1056,6 +1061,36 @@
   version "2.10.3"
   resolved "https://registry.npmmirror.com/@tiptap/extension-strike/-/extension-strike-2.10.3.tgz"
   integrity sha512-jYoPy6F6njYp3txF3u23bgdRy/S5ATcWDO9LPZLHSeikwQfJ47nqb+EUNo5M8jIOgFBTn4MEbhuZ6OGyhnxopA==
+
+"@tiptap/extension-table-cell@^2.10.2":
+  version "2.10.4"
+  resolved "https://registry.npmmirror.com/@tiptap/extension-table-cell/-/extension-table-cell-2.10.4.tgz"
+  integrity sha512-vYwRYt3xPaAU4hxoz3OMGPQzcAxaxEVri6VSRMWg4BN3x4DwWevBTAk59Ho9nkJpaRuXO6c5pIxcwWCZM0Aw0w==
+
+"@tiptap/extension-table-header@^2.10.2":
+  version "2.10.4"
+  resolved "https://registry.npmmirror.com/@tiptap/extension-table-header/-/extension-table-header-2.10.4.tgz"
+  integrity sha512-NVi/KMBh9IAzpukjptCsH+gibZB3VxgCc+wuFk41QqI5ABnTPKWflnQ0wRo7IC6wC/tUi4YBahh20dL/wBJn3w==
+
+"@tiptap/extension-table-row@^2.10.2":
+  version "2.10.4"
+  resolved "https://registry.npmmirror.com/@tiptap/extension-table-row/-/extension-table-row-2.10.4.tgz"
+  integrity sha512-kpQQSZQNYHhencIk+lzs+zWtgg6nUXHIVQKZUg5dVT0VP2JNO7wPM6d8HgnscvxOkJNRVF/Q5dYe0Cb4tROIKg==
+
+"@tiptap/extension-table@^2.10.2":
+  version "2.10.4"
+  resolved "https://registry.npmmirror.com/@tiptap/extension-table/-/extension-table-2.10.4.tgz"
+  integrity sha512-ak1RT8n0WQFNnVsZ9e6QFLWlRQP0IjT+Yp/PTsx5fSmqkiiwQKGs1ILCJWlBB3H0hV7N69aaOtK3h/35lmqoEg==
+
+"@tiptap/extension-task-item@^2.10.2":
+  version "2.10.4"
+  resolved "https://registry.npmmirror.com/@tiptap/extension-task-item/-/extension-task-item-2.10.4.tgz"
+  integrity sha512-ucKGXdHdHCBanIJTB/nhmQ3iIL6BcSVKr7mN5BGEu6sSLYROflX7lmnMPVIRcTKJz+FGJeR6AqPFVagZAXVkGQ==
+
+"@tiptap/extension-task-list@^2.10.2":
+  version "2.10.4"
+  resolved "https://registry.npmmirror.com/@tiptap/extension-task-list/-/extension-task-list-2.10.4.tgz"
+  integrity sha512-21bFlHlvGr5hsXUEug9p+BWPLqdziFS/4mGG6nUnrSDI1e4eEC86WZczsG+If6FEpjcCS9Eb2RHgqaA4VoJEqg==
 
 "@tiptap/extension-text-style@^2.10.2":
   version "2.10.3"
@@ -4125,6 +4160,11 @@ tippy.js@^6.3.7:
   integrity sha512-E1d3oP2emgJ9dRQZdf3Kkn0qJgI6ZLpyS5z6ZkY1DF3kaQaBsGZsndEpHwx+eC+tYM41HaSNvNtLx8tU57FzTQ==
   dependencies:
     "@popperjs/core" "^2.9.0"
+
+tiptap-extension-resize-image@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.npmmirror.com/tiptap-extension-resize-image/-/tiptap-extension-resize-image-1.2.1.tgz"
+  integrity sha512-SLMAujDa+0LN/6Iv2HtU4Uk0BL6LMh4b/r85frpdnjFDW2i6pIOfTVG8jzJQ8T1EgYHNn2YG1U2HoVAGuwLc3Q==
 
 to-regex-range@^5.0.1:
   version "5.0.1"
