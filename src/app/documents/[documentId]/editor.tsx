@@ -9,8 +9,36 @@ import TableCell from '@tiptap/extension-table-cell'
 import TableHeader from '@tiptap/extension-table-header'
 import Image from '@tiptap/extension-image'
 import ImageResize from 'tiptap-extension-resize-image'
+import {useEditorStore} from "@/store/use-editor-store"
+import  Underline  from '@tiptap/extension-underline'
 export const Editor = () => {
+  const {setEditor} = useEditorStore();
   const editor = useEditor({
+    // 创建编辑器时，将编辑器设置到全局状态中
+    onCreate({editor}) {
+      setEditor(editor);
+    },
+    onDestroy() {
+      setEditor(null);
+    },
+    onUpdate({editor}) {
+      setEditor(editor);
+    },
+    onSelectionUpdate({editor}) {
+      setEditor(editor);
+    },
+    onTransaction({editor}) {//事务更新时，将编辑器设置到全局状态中
+      setEditor(editor);
+    },
+    onFocus({editor}) {//聚焦时，将编辑器设置到全局状态中
+      setEditor(editor);
+    },
+    onBlur({editor}) {//失去焦点时，将编辑器设置到全局状态中
+      setEditor(editor);
+    },
+    onContentError({editor}) {
+      setEditor(editor);
+    },
     editorProps: {
       attributes: {
         class: 'focus:outline-none print:border-0 bg-white shadow-lg flex flex-col min-h-[1054px] w-[816px] pt-10 pr-14 pb-10 cursor-text',
@@ -19,6 +47,7 @@ export const Editor = () => {
     },
     extensions: [
       StarterKit,
+      Underline,
       Table,
       Image,
       ImageResize,

@@ -1102,6 +1102,11 @@
   resolved "https://registry.npmmirror.com/@tiptap/extension-text/-/extension-text-2.10.3.tgz"
   integrity sha512-7p9XiRprsRZm8y9jvF/sS929FCELJ5N9FQnbzikOiyGNUx5mdI+exVZlfvBr9xOD5s7fBLg6jj9Vs0fXPNRkPg==
 
+"@tiptap/extension-underline@^2.10.2":
+  version "2.10.2"
+  resolved "https://registry.npmmirror.com/@tiptap/extension-underline/-/extension-underline-2.10.2.tgz"
+  integrity sha512-jDWGqqUYkrLgqRQDyqh+LpbkiqPfaWOoo5bydYL0u80GPEavovxZPoCJ/HDlOfdwm+FIPy55OP/29tELJRptmg==
+
 "@tiptap/pm@^2.10.2":
   version "2.10.2"
   resolved "https://registry.npmmirror.com/@tiptap/pm/-/pm-2.10.2.tgz"
