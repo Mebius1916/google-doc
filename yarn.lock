@@ -1007,6 +1007,11 @@
   dependencies:
     tippy.js "^6.3.7"
 
+"@tiptap/extension-font-family@^2.10.2":
+  version "2.10.2"
+  resolved "https://registry.npmmirror.com/@tiptap/extension-font-family/-/extension-font-family-2.10.2.tgz"
+  integrity sha512-0O3aBLgJ7QNkqFm3Ca+QnMnF3FEzvtFXICxRYXOSawjW8bYJLpA5/bl4q9cbLYOfNGU2BncFb0OjDDvye5UGVQ==
+
 "@tiptap/extension-gapcursor@^2.10.2":
   version "2.10.3"
   resolved "https://registry.npmmirror.com/@tiptap/extension-gapcursor/-/extension-gapcursor-2.10.3.tgz"
@@ -1093,9 +1098,9 @@
   integrity sha512-21bFlHlvGr5hsXUEug9p+BWPLqdziFS/4mGG6nUnrSDI1e4eEC86WZczsG+If6FEpjcCS9Eb2RHgqaA4VoJEqg==
 
 "@tiptap/extension-text-style@^2.10.2":
-  version "2.10.3"
-  resolved "https://registry.npmmirror.com/@tiptap/extension-text-style/-/extension-text-style-2.10.3.tgz"
-  integrity sha512-TalYIdlF7vBA4afFhmido7AORdBbu3sV+HCByda0FiNbM6cjng3Nr9oxHOCVJy+ChqrcgF4m54zDfLmamdyu5Q==
+  version "2.10.2"
+  resolved "https://registry.npmmirror.com/@tiptap/extension-text-style/-/extension-text-style-2.10.2.tgz"
+  integrity sha512-dWx5Ean7Rb6rdqO6C/i0qIIABKHFsABZj0mTDr0/ZXsw3V2O4d1cP13evvcc7HMLNAXziRTtWCVU6M06vwM/Pw==
 
 "@tiptap/extension-text@^2.10.2":
   version "2.10.3"
