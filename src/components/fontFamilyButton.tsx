@@ -18,8 +18,8 @@ const fonts = [
 ];
 
 export const FontFamilyButton = () => {
-  const { editor } = useEditorStore();
-  
+  const { editor } = useEditorStore(); //用于对当前编辑器进行设置
+
   return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
@@ -45,9 +45,10 @@ export const FontFamilyButton = () => {
             type="button"
             className={cn(
               "flex items-center gap-x-2 px-2 py-1 rounded-sm hover:bg-neutral-200/80",
-              editor?.getAttributes("textStyle").fontFamily === value && "bg-neutral-200/80"
+              editor?.getAttributes("textStyle").fontFamily === value &&
+                "bg-neutral-200/80"
             )}
-            style={{fontFamily: value}}
+            style={{ fontFamily: value }}
           >
             <span className="text-sm">{label}</span>
           </button>
