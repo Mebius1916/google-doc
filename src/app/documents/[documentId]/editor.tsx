@@ -14,7 +14,9 @@ import  Underline  from '@tiptap/extension-underline'
 import FontFamily from '@tiptap/extension-font-family'
 import TextStyle from '@tiptap/extension-text-style'
 import { Color } from "@tiptap/extension-color";
+import Link from  "@tiptap/extension-link";
 import { Highlight } from "@tiptap/extension-highlight";
+
 export const Editor = () => {
   const {setEditor} = useEditorStore();
   const editor = useEditor({
@@ -56,6 +58,11 @@ export const Editor = () => {
         multicolor: true,
       }),
       Color,
+      Link.configure({
+        // openOnClick:false,//链接点击后不会在新窗口打开
+        autolink:true,//url会转化为可点击链接
+        defaultProtocol:"https"//链接走https协议
+      }),
       TextStyle,
       Table,
       Image,

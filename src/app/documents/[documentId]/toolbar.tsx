@@ -7,6 +7,8 @@ import { getToolbarSections } from "@/lib/useSections";
 import { HeadingLevelButton } from "@/components/headingButton";
 import { TextColorbutton } from "@/components/textColorButton";
 import { HighlightButton } from "@/components/highLightButton";
+import { LinkButton } from "@/components/linkButton";
+import { ImageButton } from "@/components/imageButton";
 export const Toolbar = () => {
   const { editor } = useEditorStore();
   const sections = getToolbarSections(editor || undefined);
@@ -31,7 +33,8 @@ export const Toolbar = () => {
       <TextColorbutton />
       <HighlightButton />
       <Separator orientation="vertical" className="h-6 bg-neutral-300" />
-      {/* TODO: Align */}
+      <LinkButton/>
+      <ImageButton/>
       {sections[2].map((item) => (
         <ToolbarButton key={item.label} {...item} />
       ))}
