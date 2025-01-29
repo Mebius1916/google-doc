@@ -1119,6 +1119,11 @@
   resolved "https://registry.npmmirror.com/@tiptap/extension-task-list/-/extension-task-list-2.10.4.tgz"
   integrity sha512-21bFlHlvGr5hsXUEug9p+BWPLqdziFS/4mGG6nUnrSDI1e4eEC86WZczsG+If6FEpjcCS9Eb2RHgqaA4VoJEqg==
 
+"@tiptap/extension-text-align@^2.10.2":
+  version "2.10.2"
+  resolved "https://registry.npmmirror.com/@tiptap/extension-text-align/-/extension-text-align-2.10.2.tgz"
+  integrity sha512-eDvks4fUZuOuAhWD8/HJ070g2OQlEnBpak2+huvzPhGdYP81vhx5OWk/rfF6WzLzxLwnDND2zvk3YL+RBqERZQ==
+
 "@tiptap/extension-text-style@^2.10.2":
   version "2.10.2"
   resolved "https://registry.npmmirror.com/@tiptap/extension-text-style/-/extension-text-style-2.10.2.tgz"

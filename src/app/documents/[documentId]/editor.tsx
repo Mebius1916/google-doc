@@ -16,7 +16,7 @@ import TextStyle from '@tiptap/extension-text-style'
 import { Color } from "@tiptap/extension-color";
 import Link from  "@tiptap/extension-link";
 import { Highlight } from "@tiptap/extension-highlight";
-
+import TextAlign from '@tiptap/extension-text-align'
 export const Editor = () => {
   const {setEditor} = useEditorStore();
   const editor = useEditor({
@@ -71,6 +71,9 @@ export const Editor = () => {
       TableCell,
       TableHeader,
       FontFamily,
+      TextAlign.configure({
+        types: ["heading", "paragraph"],//当前设置表示只有 heading（标题）和 paragraph（段落）元素可以使用对齐功能
+      }),
       TaskItem.configure({
         nested: true,
       }),
