@@ -36,7 +36,7 @@ export const ImageButton = () => {
     // 创建隐藏的文件输入框
     const input = document.createElement("input");
     input.type = "file";
-    input.accept = "image/*";//限制文件选择器只允许选择图片文件
+    input.accept = "image/*"; //限制文件选择器只允许选择图片文件
     // 监听文件选择事件
     input.onchange = (e) => {
       const file = (e.target as HTMLInputElement).files?.[0];
@@ -53,14 +53,14 @@ export const ImageButton = () => {
   // 处理图片URL提交
   const handleImageUrlSubmit = () => {
     if (imageUrl) {
-      onChange(imageUrl);//插入图片
-      setIsDialogOpen(false);//隐藏对话框
+      onChange(imageUrl); //插入图片
+      setIsDialogOpen(false); //隐藏对话框
       setImageUrl(""); // 清空输入框
     }
   };
 
   return (
-    <>
+    <div className="flex flex-col items-center justify-center">
       {/* 图片插入下拉菜单 */}
       <DropdownMenu>
         <DropdownMenuTrigger asChild>
@@ -114,6 +114,6 @@ export const ImageButton = () => {
           </DialogFooter>
         </DialogContent>
       </Dialog>
-    </>
+    </div>
   );
 };

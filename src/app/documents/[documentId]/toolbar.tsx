@@ -10,7 +10,9 @@ import { HighlightButton } from "@/components/highLightButton";
 import { LinkButton } from "@/components/linkButton";
 import { ImageButton } from "@/components/imageButton";
 import { AlignButton } from "@/components/alignButton";
-
+import { ListButton } from "@/components/ListButton";
+import { FontSizeButton } from "@/components/fontSizeButton";
+import { LineHeightButton } from "@/components/lineHeightButton";
 export const Toolbar = () => {
   const { editor } = useEditorStore();
   const sections = getToolbarSections(editor || undefined);
@@ -21,23 +23,37 @@ export const Toolbar = () => {
         <ToolbarButton key={item.label} {...item} />
       ))}
       {/* 分隔符组件 */}
-      <Separator orientation="vertical" className="h-6 bg-neutral-300" />
+      <div className="flex flex-col items-center justify-center">
+        <Separator orientation="vertical" className="h-6 bg-neutral-300" />
+      </div>
+
       <FontFamilyButton />
-      <Separator orientation="vertical" className="h-6 bg-neutral-300" />
+      <div className="flex flex-col items-center justify-center">
+        <Separator orientation="vertical" className="h-6 bg-neutral-300" />
+      </div>
       <HeadingLevelButton />
-      <Separator orientation="vertical" className="h-6 bg-neutral-300" />
+      <div className="flex flex-col items-center justify-center">
+        <Separator orientation="vertical" className="h-6 bg-neutral-300" />
+      </div>
       {/* TODO:Font size */}
-      <Separator orientation="vertical" className="h-6 bg-neutral-300" />
+      <div className="flex flex-col items-center justify-center">
+        <Separator orientation="vertical" className="h-6 bg-neutral-300" />
+      </div>
       {sections[1].map((item) => (
         <ToolbarButton key={item.label} {...item} />
       ))}
 
       <TextColorbutton />
       <HighlightButton />
-      <Separator orientation="vertical" className="h-6 bg-neutral-300" />
+      <div className="flex flex-col items-center justify-center">
+        <Separator orientation="vertical" className="h-6 bg-neutral-300" />
+      </div>
       <LinkButton />
       <ImageButton />
       <AlignButton />
+      <ListButton />
+      <LineHeightButton />
+      <FontSizeButton />
       {sections[2].map((item) => (
         <ToolbarButton key={item.label} {...item} />
       ))}

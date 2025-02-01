@@ -1,40 +1,26 @@
-import {
-  AlignCenterIcon,
-  AlignJustifyIcon,
-  AlignLeftIcon,
-  AlignRightIcon,
-} from "lucide-react";
+import { ListIcon, ListOrderedIcon } from "lucide-react";
 import {
   DropdownMenu,
   DropdownMenuContent,
-  DropdownMenuItem,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import { cn } from "@/lib/utils";
 import { useEditorStore } from "@/store/use-editor-store";
 
-export const AlignButton = () => {
+export const ListButton = () => {
   const { editor } = useEditorStore();
-  const alignments = [
+  const lists = [
     {
-      label: "Align Left",
-      icon: AlignLeftIcon,
-      value: "left",
+      label: "Bullet List",
+      icon: ListIcon,
+      isActive: () => editor?.isActive("bulletlist"),
+      onClick: () => editor?.chain().focus().toggleBulletList().run(),
     },
     {
-      label: "Align Center",
-      icon: AlignCenterIcon,
-      value: "center",
-    },
-    {
-      label: "Align Right",
-      icon: AlignRightIcon,
-      value: "right",
-    },
-    {
-      label: "Align Justify",
-      icon: AlignJustifyIcon,
-      value: "justify",
+      label: "Ordered List",
+      icon: ListOrderedIcon,
+      isActive: () => editor?.isActive("orderedlist"),
+      onClick: () => editor?.chain().focus().toggleOrderedList().run(),
     },
   ];
   return (
@@ -44,19 +30,19 @@ export const AlignButton = () => {
           <button
             title="Align"
             className="text-sm h-7 min-w-7 flex flex-col items-center justify-center rounded-sm hover:bg-neutral-200/80"
+            type="button"
           >
-            <AlignLeftIcon className="size-4" />
+            <ListIcon className="size-4" />
           </button>
         </DropdownMenuTrigger>
         <DropdownMenuContent className="p-0">
-          {alignments.map(({ label, icon: Icon, value }) => (
+          {lists.map(({ label, icon: Icon, onClick, isActive }) => (
             <button
-              key={value}
-              title={label}
-              onClick={() => editor?.chain().focus().setTextAlign(value).run()}
+              key={label}
+              onClick={onClick}
               className={cn(
                 "w-full flex items-center gap-x-2 px-1 py-1 rounded-sm hover:bg-neutral-200/80",
-                editor?.isActive({ textAlign: value }) && "bg-neutral-200/80"
+                isActive() && "bg-neutral-200/80"
               )}
             >
               <Icon className="size-4" />

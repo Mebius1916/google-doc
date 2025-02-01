@@ -130,7 +130,8 @@ body {
     }
 
     th {
-      background-color: #7c7c7c;
+      /* 表格表头 */
+      /* background-color: #7c7c7c; */
       font-weight: bold;
       text-align: left;
     }

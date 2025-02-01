@@ -17,9 +17,13 @@ import { Color } from "@tiptap/extension-color";
 import Link from  "@tiptap/extension-link";
 import { Highlight } from "@tiptap/extension-highlight";
 import TextAlign from '@tiptap/extension-text-align'
+import { FontSizeExtension } from "@/extensions/font-size";
+import { LineHeightExtension } from "@/extensions/line-height";
+import { Ruler } from "./ruler";
 export const Editor = () => {
   const {setEditor} = useEditorStore();
   const editor = useEditor({
+    immediatelyRender: false,//不立即渲染
     // 创建编辑器时，将编辑器设置到全局状态中
     onCreate({editor}) {
       setEditor(editor);
@@ -52,6 +56,7 @@ export const Editor = () => {
       },
     },
     extensions: [
+      FontSizeExtension,//自定义字体大小扩展
       StarterKit,
       Underline,
       Highlight.configure({
@@ -64,6 +69,9 @@ export const Editor = () => {
         defaultProtocol:"https"//链接走https协议
       }),
       TextStyle,
+      LineHeightExtension.configure({
+        types:["paragraph","heading"],
+      }),
       Table,
       Image,
       ImageResize,
@@ -79,26 +87,10 @@ export const Editor = () => {
       }),
       TaskList,
     ],
-    content: `
-        <table>
-          <tbody>
-            <tr>
-              <th>Name</th>
-              <th colspan="3">Description</th>
-            </tr>
-            <tr>
-              <td>Cyndi Lauper</td>
-              <td>Singer</td>
-              <td>Songwriter</td>
-              <td>Actress</td>
-            </tr>
-          </tbody>
-        </table>
-      `,
-    immediatelyRender: false,
   })
   return(
    <div className='size-full overflow-x-auto bg-[#F9FBFD] px-4 print:p-0 print:bg-white print:overflow-visible'>
+    <Ruler/>
     <div className='min-w-max flex justify-center w-[816px] py-4 print:py-0 mx-auto print:w-full print:min-w-0'>
       <EditorContent editor={editor}/>
     </div>
