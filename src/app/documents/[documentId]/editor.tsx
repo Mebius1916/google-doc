@@ -22,6 +22,7 @@ import { LineHeightExtension } from "@/extensions/line-height";
 import { Ruler } from "./ruler";
 export const Editor = () => {
   const {setEditor} = useEditorStore();
+
   const editor = useEditor({
     immediatelyRender: false,//不立即渲染
     // 创建编辑器时，将编辑器设置到全局状态中
