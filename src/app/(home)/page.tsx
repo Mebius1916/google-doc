@@ -1,5 +1,5 @@
 import { Narbar } from "./narbar";
-import { TemplateGallery } from "./templates-galleryy";
+import { TemplateGallery } from "./templates-gallery";
 const Home = () => {
   return (
     <div className="min-h-screen flex flex-col">
