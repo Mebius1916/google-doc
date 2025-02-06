@@ -8,8 +8,26 @@ import {
 } from "@/components/ui/carousel";
 import { cn } from "@/lib/utils";
 import { templates } from "@/constants/templates";
+import { useMutation } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import { useState } from "react";
+import { useRouter } from "next/navigation";
 export const TemplateGallery = () => {
-  const isCreating = false;
+  const router = useRouter();
+  const create = useMutation(api.documents.create);
+  const [isCreating,setIsCreating] = useState(false);
+
+  const onTemplateClick = (title:string, initialContent:string)=>{
+    setIsCreating(true);  // button解禁
+   
+    create({title, initialContent})  // 调用后端API创建新文档
+      .then((documentId)=>{
+        router.push(`/documents/${documentId}`);  // 创建成功后跳转到新文档页面
+      })
+      .finally(()=>{
+        setIsCreating(false);  // 无论成功失败，最后都禁用button
+      })
+  }
   return (
     <div className="bg-[#F1F3F4]">
       <div className="max-w-screen-xl mx-auto px-16 py-6 flex flex-col gap-y-4">
@@ -30,7 +48,7 @@ export const TemplateGallery = () => {
                   <button
                     type="button"
                     disabled={isCreating}
-                    onClick={() => {}}
+                    onClick={() => onTemplateClick(template.label,"")}
                     style={{
                       backgroundImage: `url(${template.imageUrl})`,
                       backgroundSize: "cover",
