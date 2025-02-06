@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="794"
+   height="1122.5601"
+   viewBox="0 0 794 1122.5601"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <path
+         d="M 0,115.625 H 2481.25 V 3393.75 H 0 Z"
+         clip-rule="evenodd"
+         id="path14" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath62">
+      <path
+         d="m 115.625,237.5 h 2250 v 675 h -2250 z"
+         clip-rule="evenodd"
+         id="path60" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath74">
+      <path
+         d="m 115.625,237.5 h 2250 v 675 h -2250 z"
+         clip-rule="evenodd"
+         id="path72" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath86">
+      <path
+         d="M 0,115.625 H 2481.25 V 3393.75 H 0 Z"
+         id="path84" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath92">
+      <path
+         d="m 115.625,237.5 h 2250 v 675 h -2250 z"
+         id="path90" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath98">
+      <path
+         d="m 115.625,237.5 h 2250 v 675 h -2250 z"
+         id="path96" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath104">
+      <path
+         d="m 1529.189,152.282 h 845.436 v 845.43616 h -845.436 z"
+         id="path102" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath110">
+      <path
+         d="m 1951.907,152.282 c -233.4607,0 -422.718,189.25731 -422.718,422.71806 0,233.46069 189.2573,422.71808 422.718,422.71808 233.4607,0 422.718,-189.25739 422.718,-422.71808 0,-233.46075 -189.2573,-422.71806 -422.718,-422.71806 z"
+         id="path108" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath122">
+      <path
+         d="m 1668.1349,414.96033 h 68.75 v 31.25 h -68.75 z"
+         clip-rule="evenodd"
+         id="path120" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath134">
+      <path
+         d="m 115.625,237.5 h 2250 v 675 h -2250 z"
+         clip-rule="evenodd"
+         id="path132" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath158">
+      <path
+         d="m 115.625,1275 h 2250 v 818.75 h -2250 z"
+         clip-rule="evenodd"
+         id="path156" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath170">
+      <path
+         d="M 115.625,1278.125 H 831.25 V 1412.5 H 115.625 Z"
+         clip-rule="evenodd"
+         id="path168" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath184">
+      <path
+         d="m 834.5788,1278.125 h 1531.25 V 1412.5 h -1531.25 z"
+         clip-rule="evenodd"
+         id="path182" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath198">
+      <path
+         d="M 115.625,1413.7207 H 831.25 v 134.375 H 115.625 Z"
+         clip-rule="evenodd"
+         id="path196" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath212">
+      <path
+         d="m 834.5788,1413.7207 h 1531.25 v 134.375 h -1531.25 z"
+         clip-rule="evenodd"
+         id="path210" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath226">
+      <path
+         d="M 115.625,1549.3164 H 831.25 v 134.375 H 115.625 Z"
+         clip-rule="evenodd"
+         id="path224" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath240">
+      <path
+         d="m 834.5788,1549.3164 h 1531.25 v 134.375 h -1531.25 z"
+         clip-rule="evenodd"
+         id="path238" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath254">
+      <path
+         d="M 115.625,1684.9121 H 831.25 v 134.375 H 115.625 Z"
+         clip-rule="evenodd"
+         id="path252" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath268">
+      <path
+         d="m 834.5788,1684.9121 h 1531.25 v 134.375 h -1531.25 z"
+         clip-rule="evenodd"
+         id="path266" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath282">
+      <path
+         d="M 115.625,1820.5078 H 831.25 v 134.375 H 115.625 Z"
+         clip-rule="evenodd"
+         id="path280" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath296">
+      <path
+         d="m 834.5788,1820.5078 h 1531.25 v 134.375 h -1531.25 z"
+         clip-rule="evenodd"
+         id="path294" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath310">
+      <path
+         d="M 115.625,1956.1035 H 831.25 v 134.375 H 115.625 Z"
+         clip-rule="evenodd"
+         id="path308" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath324">
+      <path
+         d="m 834.5788,1956.1035 h 1531.25 v 134.375 h -1531.25 z"
+         clip-rule="evenodd"
+         id="path322" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath338">
+      <path
+         d="m 115.625,1275 h 2250 v 818.75 h -2250 z"
+         clip-rule="evenodd"
+         id="path336" />
+    </clipPath>
+  </defs>
+  <g
+     id="g8"
+     transform="matrix(0.31999998,0,0,0.31999998,0,5.4730666e-5)">
+    <g
+       id="g10">
+      <g
+         id="g12"
+         clip-path="url(#clipPath16)">
+        <g
+           id="g18"
+           transform="matrix(3.125,0,0,3.125,0,115.625)">
+          <path
+             d="M 0,0 H 794 V 1049 H 0 Z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path20" />
+          <path
+             d="M 0,0 H 794 V 1049 H 0 Z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path22" />
+          <text
+             xml:space="preserve"
+             transform="translate(37,349)"
+             style="font-variant:normal;font-weight:normal;font-size:26.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Normal;writing-mode:lr-tb;fill:#0025e8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text26"><tspan
+               x="0 26.656158 53.312317 79.968475"
+               y="0"
+               id="tspan24">活动概述</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(37,716)"
+             style="font-variant:normal;font-weight:normal;font-size:26.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Normal;writing-mode:lr-tb;fill:#0025e8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text30"><tspan
+               x="0 26.656158 53.312317 79.968475"
+               y="0"
+               id="tspan28">活动介绍</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(37,759)"
+             style="font-variant:normal;font-weight:bold;font-size:21.33px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text34"><tspan
+               x="0 21.328217"
+               y="0"
+               id="tspan32">简述</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(37,799)"
+             style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text38"><tspan
+               x="0 16.000031 32.000061 48.000092 64.000122 80.000153 96.000183 112.00021 128.00024 144.00027 160.00031 176.00034 192.00037 208.0004 224.00043 240.00046 256.00049 272.00052 288.00055 304.00058 320.00061 336.00064 352.00067 368.0007 384.00073 400.00076 416.00079 432.00082"
+               y="0"
+               id="tspan36">活动的内容是什么？是颁奖仪式？是产品发布会？还是研讨会？</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(37,843)"
+             style="font-variant:normal;font-weight:bold;font-size:21.33px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text42"><tspan
+               x="0 21.328217"
+               y="0"
+               id="tspan40">⽬标</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(37,883)"
+             style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text46"><tspan
+               x="0 16.000031 32.000061 48.000092 64.000122 80.000153 96.000183 112.00021 128.00024 144.00027 160.00031 176.00034 192.00037 208.0004 224.00043 240.00046 256.00049 272.00052 288.00055 304.00058"
+               y="0"
+               id="tspan44">举办这次活动的⽬的是什么？⾄少列出三点。</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(37,928)"
+             style="font-variant:normal;font-weight:bold;font-size:21.33px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text50"><tspan
+               x="0 21.328217"
+               y="0"
+               id="tspan48">效益</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(37,968)"
+             style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text54"><tspan
+               x="0 16.000031 32.000061 48.000092 64.000122 80.000153 96.000183 112.00021 128.00024 144.00027 160.00031 176.00034 192.00037 208.0004 224.00043 240.00046 256.00049 272.00052 288.00055 304.00058 320.00061 336.00064 352.00067 368.0007 384.00073 400.00076 416.00079 432.00082 448.00085 464.00089 480.00092 496.00095 512.00098 528.00098 544.00098 560.00098 576.00098 592.00098 608.00098 624.00098 640.00098"
+               y="0"
+               id="tspan52">该活动是否会吸引到更多投资者和客⼾？它是否会提⾼员⼯的⼠⽓和参与度？⾄少列举三个。</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g56">
+      <g
+         id="g58"
+         clip-path="url(#clipPath62)">
+        <g
+           id="g64"
+           transform="matrix(3.125,0,0,3.125,0,115.625)">
+          <path
+             d="M 37,39 H 757 V 255 H 37 Z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path66" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g68">
+      <g
+         id="g70"
+         clip-path="url(#clipPath74)">
+        <g
+           id="g76"
+           transform="matrix(3.125,0,0,3.125,0,115.625)">
+          <path
+             d="M 37,39 H 757 V 255 H 37 Z"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path78" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g80">
+      <g
+         id="g82"
+         clip-path="url(#clipPath86)">
+        <g
+           id="g88"
+           clip-path="url(#clipPath92)">
+          <g
+             id="g94"
+             clip-path="url(#clipPath98)">
+            <g
+               id="g100"
+               clip-path="url(#clipPath104)">
+              <g
+                 id="g106"
+                 clip-path="url(#clipPath110)">
+                <g
+                   id="g112"
+                   transform="matrix(1.1242502,0,0,1.1242502,1529.189,152.282)">
+                  <path
+                     d="M 0,0 H 752 V 752 H 0 Z"
+                     style="fill:#0506f6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path114" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g116">
+      <g
+         id="g118"
+         clip-path="url(#clipPath122)">
+        <g
+           id="g124"
+           transform="matrix(0.32141331,0,0,0.32141331,1668.2098,414.96033)">
+          <path
+             d="M 167.3,95.099998 214.8,47.5 167.3,0 161.60001,5.6999998 199.5,43.5 H 0 v 8 h 199.5 l -37.89999,37.900002 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path126" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g128">
+      <g
+         id="g130"
+         clip-path="url(#clipPath134)">
+        <g
+           id="g136"
+           transform="matrix(1.125,0,0,1.125,1668.1349,511.03662)">
+          <text
+             xml:space="preserve"
+             transform="translate(0,66)"
+             style="font-variant:normal;font-weight:normal;font-size:58.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text140"><tspan
+               x="0 58.656219 117.31244 175.96866 234.62488 293.2811 351.93732 410.59354 469.24976"
+               y="0"
+               id="tspan138">安排⼀次教科书式的</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="translate(0,148)"
+             style="font-variant:normal;font-weight:normal;font-size:58.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text144"><tspan
+               x="0 58.656219 117.31244 175.96866"
+               y="0"
+               id="tspan142">公司活动</tspan></text>
+        </g>
+        <g
+           id="g146"
+           transform="matrix(1.125,0,0,1.125,207.04692,440.01025)">
+          <text
+             xml:space="preserve"
+             transform="translate(0,211)"
+             style="font-variant:normal;font-weight:bold;font-size:240px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text150"><tspan
+               x="0 243.84001 487.68002 731.52002"
+               y="0"
+               id="tspan148">活动⽅案</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g152">
+      <g
+         id="g154"
+         clip-path="url(#clipPath158)">
+        <g
+           id="g160"
+           transform="matrix(3.125,0,0,3.125,115.625,1275)">
+          <path
+             d="M -0.25,0.25 V 44.140625 H 229.81522 V 0.25 Z m 0,43.390625 V 87.53125 H 229.81522 V 43.640625 Z m 0,43.390625 v 43.89062 H 229.81522 V 87.03125 Z m 0,43.39062 v 43.89063 h 230.06522 v -43.89063 z m 0,43.39063 v 43.89063 H 229.81522 V 173.8125 Z m 0,43.39063 v 43.89062 h 230.06522 v -43.89062 z"
+             style="fill:#eef5ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path162" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g164">
+      <g
+         id="g166"
+         clip-path="url(#clipPath170)">
+        <g
+           id="g172"
+           transform="matrix(3.125,0,0,3.125,146.875,1309.375)">
+          <text
+             xml:space="preserve"
+             transform="translate(0,15)"
+             style="font-variant:normal;font-weight:bold;font-size:13.33px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text176"><tspan
+               x="0 14.328076 28.656153 42.98423"
+               y="0"
+               id="tspan174">活动名称</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g178">
+      <g
+         id="g180"
+         clip-path="url(#clipPath184)">
+        <g
+           id="g186"
+           transform="matrix(3.125,0,0,3.125,865.8288,1309.375)">
+          <text
+             xml:space="preserve"
+             transform="translate(0,15)"
+             style="font-variant:normal;font-weight:normal;font-size:13.33px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text190"><tspan
+               x="0 13.328079 26.656158 39.984238 53.312317 66.640396 79.968475 93.296555 106.62463 119.95271"
+               y="0"
+               id="tspan188">该活动的名称是什么？</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g192">
+      <g
+         id="g194"
+         clip-path="url(#clipPath198)">
+        <g
+           id="g200"
+           transform="matrix(3.125,0,0,3.125,146.875,1444.9707)">
+          <text
+             xml:space="preserve"
+             transform="translate(0,15)"
+             style="font-variant:normal;font-weight:bold;font-size:13.33px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text204"><tspan
+               x="0 14.328084 28.656168 42.984253 57.312336"
+               y="0"
+               id="tspan202">⽇期和时间</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g206">
+      <g
+         id="g208"
+         clip-path="url(#clipPath212)">
+        <g
+           id="g214"
+           transform="matrix(3.125,0,0,3.125,865.8288,1444.9707)">
+          <text
+             xml:space="preserve"
+             transform="translate(0,15)"
+             style="font-variant:normal;font-weight:normal;font-size:13.33px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text218"><tspan
+               x="0 13.328079 26.656158 39.984238 53.312317 66.640396 79.968475 93.296555 106.62463"
+               y="0"
+               id="tspan216">活动什么时候举⾏？</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g220">
+      <g
+         id="g222"
+         clip-path="url(#clipPath226)">
+        <g
+           id="g228"
+           transform="matrix(3.125,0,0,3.125,146.875,1580.5664)">
+          <text
+             xml:space="preserve"
+             transform="translate(0,15)"
+             style="font-variant:normal;font-weight:bold;font-size:13.33px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text232"><tspan
+               x="0 14.328084"
+               y="0"
+               id="tspan230">地点</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g234">
+      <g
+         id="g236"
+         clip-path="url(#clipPath240)">
+        <g
+           id="g242"
+           transform="matrix(3.125,0,0,3.125,865.8288,1580.5664)">
+          <text
+             xml:space="preserve"
+             transform="translate(0,15)"
+             style="font-variant:normal;font-weight:normal;font-size:13.33px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text246"><tspan
+               x="0 13.328079 26.656158 39.984238 53.312317 66.640396 79.968475 93.296555 106.62463"
+               y="0"
+               id="tspan244">活动将在哪⾥举⾏？</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g248">
+      <g
+         id="g250"
+         clip-path="url(#clipPath254)">
+        <g
+           id="g256"
+           transform="matrix(3.125,0,0,3.125,146.875,1716.1621)">
+          <text
+             xml:space="preserve"
+             transform="translate(0,15)"
+             style="font-variant:normal;font-weight:bold;font-size:13.33px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text260"><tspan
+               x="0 14.328084 28.656168 42.984253"
+               y="0"
+               id="tspan258">参加⼈数</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g262">
+      <g
+         id="g264"
+         clip-path="url(#clipPath268)">
+        <g
+           id="g270"
+           transform="matrix(3.125,0,0,3.125,865.8288,1716.1621)">
+          <text
+             xml:space="preserve"
+             transform="translate(0,15)"
+             style="font-variant:normal;font-weight:normal;font-size:13.33px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text274"><tspan
+               x="0 13.328079 26.656158 39.984238 53.312317 66.640396 79.968475 93.296555 106.62463 119.95271"
+               y="0"
+               id="tspan272">预计将有多少⼈参加？</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g276">
+      <g
+         id="g278"
+         clip-path="url(#clipPath282)">
+        <g
+           id="g284"
+           transform="matrix(3.125,0,0,3.125,146.875,1851.7578)">
+          <text
+             xml:space="preserve"
+             transform="translate(0,15)"
+             style="font-variant:normal;font-weight:bold;font-size:13.33px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text288"><tspan
+               x="0 14.328084 28.656168 42.984253"
+               y="0"
+               id="tspan286">所需费⽤</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g290">
+      <g
+         id="g292"
+         clip-path="url(#clipPath296)">
+        <g
+           id="g298"
+           transform="matrix(3.125,0,0,3.125,865.8288,1851.7578)">
+          <text
+             xml:space="preserve"
+             transform="translate(0,15)"
+             style="font-variant:normal;font-weight:normal;font-size:13.33px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text302"><tspan
+               x="0 13.328079 26.656158 39.984238 53.312317 66.640396 79.968475 93.296555 106.62463 119.95271 133.28079 146.60887 159.93695 173.26503"
+               y="0"
+               id="tspan300">举办该活动的预计费⽤是多少？</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g304">
+      <g
+         id="g306"
+         clip-path="url(#clipPath310)">
+        <g
+           id="g312"
+           transform="matrix(3.125,0,0,3.125,146.875,1987.3535)">
+          <text
+             xml:space="preserve"
+             transform="translate(0,15)"
+             style="font-variant:normal;font-weight:bold;font-size:13.33px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text316"><tspan
+               x="0 14.328084 28.656168"
+               y="0"
+               id="tspan314">编制⼈</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g318">
+      <g
+         id="g320"
+         clip-path="url(#clipPath324)">
+        <g
+           id="g326"
+           transform="matrix(3.125,0,0,3.125,865.8288,1987.3535)">
+          <text
+             xml:space="preserve"
+             transform="translate(0,15)"
+             style="font-variant:normal;font-weight:normal;font-size:13.33px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text330"><tspan
+               x="0 13.328079 26.656158 39.984238 53.312317 66.640396 79.968475 93.296555 106.62463"
+               y="0"
+               id="tspan328">谁负责制定该⽅案？</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g332">
+      <g
+         id="g334"
+         clip-path="url(#clipPath338)">
+        <g
+           id="g340"
+           transform="matrix(3.125,0,0,3.125,115.625,1275)">
+          <path
+             d="M 229.56522,1 V 260.34375 M 0,0.5 H 720 M 0,43.890625 H 720 M 0,87.28125 H 720 M 0,130.67187 H 720 M 0,174.0625 H 720 M 0,217.45313 H 720 M 0,260.84375 h 720"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path342" />
+          <path
+             d="M 229.56522,1 V 260.34375 M 0,0.5 H 720 M 0,43.890625 H 720 M 0,87.28125 H 720 M 0,130.67187 H 720 M 0,174.0625 H 720 M 0,217.45313 H 720 M 0,260.84375 h 720"
+             style="fill:none;stroke:#c2dcfd;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path344" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

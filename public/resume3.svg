@@ -1,0 +1,1705 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="794"
+   height="1123"
+   viewBox="0 0 794 1123"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="M 0,0 H 2481.25 V 3509.375 H 0 Z"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath30">
+      <path
+         d="M 0,0 H 2481.25 V 3509.375 H 0 Z"
+         clip-rule="evenodd"
+         id="path28" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath42">
+      <path
+         d="M 0,0 H 2481.25 V 3509.375 H 0 Z"
+         clip-rule="evenodd"
+         id="path40" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath54">
+      <path
+         d="m 125.00887,2506.1077 h 40.625 v 34.375 h -40.625 z"
+         clip-rule="evenodd"
+         id="path52" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath66">
+      <path
+         d="m 125.00887,2572.4233 h 40.625 v 34.375 h -40.625 z"
+         clip-rule="evenodd"
+         id="path64" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath78">
+      <path
+         d="m 125.00887,608.09302 h 40.625 v 34.375 h -40.625 z"
+         clip-rule="evenodd"
+         id="path76" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath90">
+      <path
+         d="m 125.00887,674.40851 h 40.625 v 34.375 h -40.625 z"
+         clip-rule="evenodd"
+         id="path88" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath102">
+      <path
+         d="M 0,0 H 2481.25 V 3509.375 H 0 Z"
+         clip-rule="evenodd"
+         id="path100" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath114">
+      <path
+         d="m 125.00887,804.29095 h 40.625 v 34.375 h -40.625 z"
+         clip-rule="evenodd"
+         id="path112" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath126">
+      <path
+         d="m 125.00887,870.60651 h 40.625 v 34.375 h -40.625 z"
+         clip-rule="evenodd"
+         id="path124" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath138">
+      <path
+         d="M 0,0 H 2481.25 V 3509.375 H 0 Z"
+         clip-rule="evenodd"
+         id="path136" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath150">
+      <path
+         d="m 125.00887,1155.0209 h 40.625 v 34.375 h -40.625 z"
+         clip-rule="evenodd"
+         id="path148" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath162">
+      <path
+         d="m 125.00887,1221.3364 h 40.625 v 34.375 h -40.625 z"
+         clip-rule="evenodd"
+         id="path160" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath174">
+      <path
+         d="m 125.00887,1353.9674 h 40.625 v 34.375 h -40.625 z"
+         clip-rule="evenodd"
+         id="path172" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath186">
+      <path
+         d="m 125.00887,1480.908 h 40.625 v 34.375 h -40.625 z"
+         clip-rule="evenodd"
+         id="path184" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath198">
+      <path
+         d="m 125.00887,1547.959 h 40.625 v 34.375 h -40.625 z"
+         clip-rule="evenodd"
+         id="path196" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath210">
+      <path
+         d="m 125.00887,1615.0099 h 40.625 v 34.375 h -40.625 z"
+         clip-rule="evenodd"
+         id="path208" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath222">
+      <path
+         d="M 0,0 H 2481.25 V 3509.375 H 0 Z"
+         clip-rule="evenodd"
+         id="path220" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath234">
+      <path
+         d="M 0,0 H 2481.25 V 3509.375 H 0 Z"
+         id="path232" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath240">
+      <path
+         d="M 0,0 H 2481.25 V 3509.375 H 0 Z"
+         id="path238" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath246">
+      <path
+         d="m 129.71413,2793.6655 h 24.74076 v 24.7407 h -24.74076 z"
+         id="path244" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath252">
+      <path
+         d="m 142.0845,2793.6655 c -6.83197,0 -12.37037,5.5384 -12.37037,12.3704 0,6.832 5.5384,12.3704 12.37037,12.3704 6.83199,0 12.37039,-5.5384 12.37039,-12.3704 0,-6.832 -5.5384,-12.3704 -12.37039,-12.3704 z"
+         id="path250" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath264">
+      <path
+         d="M 0,0 H 2481.25 V 3509.375 H 0 Z"
+         id="path262" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath270">
+      <path
+         d="M 0,0 H 2481.25 V 3509.375 H 0 Z"
+         id="path268" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath276">
+      <path
+         d="m 129.71413,2858.51 h 24.74076 v 24.7407 h -24.74076 z"
+         id="path274" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath282">
+      <path
+         d="m 142.0845,2858.51 c -6.83197,0 -12.37037,5.5383 -12.37037,12.3704 0,6.832 5.5384,12.3703 12.37037,12.3703 6.83199,0 12.37039,-5.5383 12.37039,-12.3703 0,-6.8321 -5.5384,-12.3704 -12.37039,-12.3704 z"
+         id="path280" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath294">
+      <path
+         d="M 0,0 H 2481.25 V 3509.375 H 0 Z"
+         id="path292" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath300">
+      <path
+         d="M 0,0 H 2481.25 V 3509.375 H 0 Z"
+         id="path298" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath306">
+      <path
+         d="m 129.71413,2923.3928 h 24.74076 v 24.7407 h -24.74076 z"
+         id="path304" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath312">
+      <path
+         d="m 142.0845,2923.3928 c -6.83197,0 -12.37037,5.5384 -12.37037,12.3704 0,6.832 5.5384,12.3703 12.37037,12.3703 6.83199,0 12.37039,-5.5383 12.37039,-12.3703 0,-6.832 -5.5384,-12.3704 -12.37039,-12.3704 z"
+         id="path310" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath324">
+      <path
+         d="M 0,0 H 2481.25 V 3509.375 H 0 Z"
+         clip-rule="evenodd"
+         id="path322" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath336">
+      <path
+         d="m 125.00887,1896.4824 h 40.625 v 34.375 h -40.625 z"
+         clip-rule="evenodd"
+         id="path334" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath348">
+      <path
+         d="m 125.00887,1963.085 h 40.625 v 34.375 h -40.625 z"
+         clip-rule="evenodd"
+         id="path346" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath360">
+      <path
+         d="m 125.00887,2029.6875 h 40.625 v 34.375 h -40.625 z"
+         clip-rule="evenodd"
+         id="path358" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath372">
+      <path
+         d="m 125.00887,2152.8271 h 40.625 v 34.375 h -40.625 z"
+         clip-rule="evenodd"
+         id="path370" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath384">
+      <path
+         d="M 0,0 H 2481.25 V 3509.375 H 0 Z"
+         clip-rule="evenodd"
+         id="path382" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath396">
+      <path
+         d="M 0,0 H 2481.25 V 3509.375 H 0 Z"
+         id="path394" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath402">
+      <path
+         d="M 0,0 H 2481.25 V 3509.375 H 0 Z"
+         id="path400" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath408">
+      <path
+         d="m 129.71413,3140.6184 h 24.74076 v 24.7407 h -24.74076 z"
+         id="path406" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath414">
+      <path
+         d="m 142.0845,3140.6184 c -6.83197,0 -12.37037,5.5383 -12.37037,12.3704 0,6.832 5.5384,12.3703 12.37037,12.3703 6.83199,0 12.37039,-5.5383 12.37039,-12.3703 0,-6.8321 -5.5384,-12.3704 -12.37039,-12.3704 z"
+         id="path412" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath426">
+      <path
+         d="M 0,0 H 2481.25 V 3509.375 H 0 Z"
+         id="path424" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath432">
+      <path
+         d="M 0,0 H 2481.25 V 3509.375 H 0 Z"
+         id="path430" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath438">
+      <path
+         d="m 129.71413,3270.3457 h 24.74076 v 24.7407 h -24.74076 z"
+         id="path436" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath444">
+      <path
+         d="m 142.0845,3270.3457 c -6.83197,0 -12.37037,5.5383 -12.37037,12.3704 0,6.832 5.5384,12.3703 12.37037,12.3703 6.83199,0 12.37039,-5.5383 12.37039,-12.3703 0,-6.8321 -5.5384,-12.3704 -12.37039,-12.3704 z"
+         id="path442" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath456">
+      <path
+         d="M 0,0 H 2481.25 V 3509.375 H 0 Z"
+         clip-rule="evenodd"
+         id="path454" />
+    </clipPath>
+  </defs>
+  <g
+     id="g8"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,1133.4399)">
+    <g
+       id="g10"
+       transform="matrix(0.23999999,0,0,-0.23999999,0,850.07996)">
+      <g
+         id="g12">
+        <g
+           id="g14"
+           clip-path="url(#clipPath18)">
+          <g
+             id="g20"
+             transform="scale(3.125)">
+            <path
+               d="M 0,0 H 794 V 1123 H 0 Z"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path22" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g24">
+        <g
+           id="g26"
+           clip-path="url(#clipPath30)">
+          <g
+             id="g32"
+             transform="scale(3.125)">
+            <path
+               d="M 0,0 H 794 V 1123 H 0 Z"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path34" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g36">
+        <g
+           id="g38"
+           clip-path="url(#clipPath42)">
+          <g
+             id="g44"
+             transform="matrix(3.125,0,0,3.125,119.54867,2390.2896)">
+            <path
+               d="M 0,1 H 717.18964"
+               style="fill:none;stroke:#545454;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path46" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g48">
+        <g
+           id="g50"
+           clip-path="url(#clipPath54)">
+          <g
+             id="g56"
+             transform="matrix(0.98876953,0,0,0.98876953,121.06599,2500.175)">
+            <path
+               d="M 4.02,42 46,24 4.0200005,6 4.0000005,20 34,24 4,28 Z"
+               style="fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path58" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g60">
+        <g
+           id="g62"
+           clip-path="url(#clipPath66)">
+          <g
+             id="g68"
+             transform="matrix(0.98876953,0,0,0.98876953,121.06599,2566.4907)">
+            <path
+               d="M 4.02,42 46,24 4.0200005,6 4.0000005,20 34,24 4,28 Z"
+               style="fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path70" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g72">
+        <g
+           id="g74"
+           clip-path="url(#clipPath78)">
+          <g
+             id="g80"
+             transform="matrix(0.98876953,0,0,0.98876953,121.06599,602.1604)">
+            <path
+               d="M 4.02,42 46,24 4.0200005,6 4.0000005,20 34,24 4,28 Z"
+               style="fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path82" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g84">
+        <g
+           id="g86"
+           clip-path="url(#clipPath90)">
+          <g
+             id="g92"
+             transform="matrix(0.98876953,0,0,0.98876953,121.06599,668.47589)">
+            <path
+               d="M 4.02,42 46,24 4.0200005,6 4.0000005,20 34,24 4,28 Z"
+               style="fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path94" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g96">
+        <g
+           id="g98"
+           clip-path="url(#clipPath102)">
+          <g
+             id="g104"
+             transform="matrix(3.125,0,0,3.125,119.54867,492.27475)">
+            <path
+               d="M 0,1 H 717.18964"
+               style="fill:none;stroke:#545454;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path106" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g108">
+        <g
+           id="g110"
+           clip-path="url(#clipPath114)">
+          <g
+             id="g116"
+             transform="matrix(0.98876953,0,0,0.98876953,121.06599,798.35834)">
+            <path
+               d="M 4.02,42 46,24 4.0200005,6 4.0000005,20 34,24 4,28 Z"
+               style="fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path118" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g120">
+        <g
+           id="g122"
+           clip-path="url(#clipPath126)">
+          <g
+             id="g128"
+             transform="matrix(0.98876953,0,0,0.98876953,121.06599,864.67389)">
+            <path
+               d="M 4.02,42 46,24 4.0200005,6 4.0000005,20 34,24 4,28 Z"
+               style="fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path130" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g132">
+        <g
+           id="g134"
+           clip-path="url(#clipPath138)">
+          <g
+             id="g140"
+             transform="matrix(3.125,0,0,3.125,119.54867,1038.7196)">
+            <path
+               d="M 0,1 H 717.18964"
+               style="fill:none;stroke:#545454;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path142" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g144">
+        <g
+           id="g146"
+           clip-path="url(#clipPath150)">
+          <g
+             id="g152"
+             transform="matrix(0.98876953,0,0,0.98876953,121.06599,1149.0883)">
+            <path
+               d="M 4.02,42 46,24 4.0200005,6 4.0000005,20 34,24 4,28 Z"
+               style="fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path154" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g156">
+        <g
+           id="g158"
+           clip-path="url(#clipPath162)">
+          <g
+             id="g164"
+             transform="matrix(0.98876953,0,0,0.98876953,121.06599,1215.4038)">
+            <path
+               d="M 4.02,42 46,24 4.0200005,6 4.0000005,20 34,24 4,28 Z"
+               style="fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path166" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g168">
+        <g
+           id="g170"
+           clip-path="url(#clipPath174)">
+          <g
+             id="g176"
+             transform="matrix(0.98876953,0,0,0.98876953,121.06599,1348.0348)">
+            <path
+               d="M 4.02,42 46,24 4.0200005,6 4.0000005,20 34,24 4,28 Z"
+               style="fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path178" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g180">
+        <g
+           id="g182"
+           clip-path="url(#clipPath186)">
+          <g
+             id="g188"
+             transform="matrix(0.98876953,0,0,0.98876953,121.06599,1474.9753)">
+            <path
+               d="M 4.02,42 46,24 4.0200005,6 4.0000005,20 34,24 4,28 Z"
+               style="fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path190" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g192">
+        <g
+           id="g194"
+           clip-path="url(#clipPath198)">
+          <g
+             id="g200"
+             transform="matrix(0.98876953,0,0,0.98876953,121.06599,1542.0264)">
+            <path
+               d="M 4.02,42 46,24 4.0200005,6 4.0000005,20 34,24 4,28 Z"
+               style="fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path202" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g204">
+        <g
+           id="g206"
+           clip-path="url(#clipPath210)">
+          <g
+             id="g212"
+             transform="matrix(0.98876953,0,0,0.98876953,121.06599,1609.0773)">
+            <path
+               d="M 4.02,42 46,24 4.0200005,6 4.0000005,20 34,24 4,28 Z"
+               style="fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path214" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g216">
+        <g
+           id="g218"
+           clip-path="url(#clipPath222)">
+          <g
+             id="g224"
+             transform="matrix(3.125,0,0,3.125,119.54867,2740.5366)">
+            <path
+               d="M 0,1 H 717.18964"
+               style="fill:none;stroke:#545454;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path226" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g228">
+        <g
+           id="g230"
+           clip-path="url(#clipPath234)">
+          <g
+             id="g236"
+             clip-path="url(#clipPath240)">
+            <g
+               id="g242"
+               clip-path="url(#clipPath246)">
+              <g
+                 id="g248"
+                 clip-path="url(#clipPath252)">
+                <g
+                   id="g254"
+                   transform="matrix(0.09664361,0,0,0.09664361,129.71413,2793.6655)">
+                  <path
+                     d="M 0,0 H 256 V 256 H 0 Z"
+                     style="fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path256" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g258">
+        <g
+           id="g260"
+           clip-path="url(#clipPath264)">
+          <g
+             id="g266"
+             clip-path="url(#clipPath270)">
+            <g
+               id="g272"
+               clip-path="url(#clipPath276)">
+              <g
+                 id="g278"
+                 clip-path="url(#clipPath282)">
+                <g
+                   id="g284"
+                   transform="matrix(0.09664361,0,0,0.09664361,129.71413,2858.51)">
+                  <path
+                     d="M 0,0 H 256 V 256 H 0 Z"
+                     style="fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path286" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g288">
+        <g
+           id="g290"
+           clip-path="url(#clipPath294)">
+          <g
+             id="g296"
+             clip-path="url(#clipPath300)">
+            <g
+               id="g302"
+               clip-path="url(#clipPath306)">
+              <g
+                 id="g308"
+                 clip-path="url(#clipPath312)">
+                <g
+                   id="g314"
+                   transform="matrix(0.09664361,0,0,0.09664361,129.71413,2923.3928)">
+                  <path
+                     d="M 0,0 H 256 V 256 H 0 Z"
+                     style="fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path316" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g318">
+        <g
+           id="g320"
+           clip-path="url(#clipPath324)">
+          <g
+             id="g326"
+             transform="matrix(3.125,0,0,3.125,119.54867,1780.1813)">
+            <path
+               d="M 0,1 H 717.18964"
+               style="fill:none;stroke:#545454;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path328" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g330">
+        <g
+           id="g332"
+           clip-path="url(#clipPath336)">
+          <g
+             id="g338"
+             transform="matrix(0.98876953,0,0,0.98876953,121.06599,1890.5498)">
+            <path
+               d="M 4.02,42 46,24 4.0200005,6 4.0000005,20 34,24 4,28 Z"
+               style="fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path340" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g342">
+        <g
+           id="g344"
+           clip-path="url(#clipPath348)">
+          <g
+             id="g350"
+             transform="matrix(0.98876953,0,0,0.98876953,121.06599,1957.1523)">
+            <path
+               d="M 4.02,42 46,24 4.0200005,6 4.0000005,20 34,24 4,28 Z"
+               style="fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path352" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g354">
+        <g
+           id="g356"
+           clip-path="url(#clipPath360)">
+          <g
+             id="g362"
+             transform="matrix(0.98876953,0,0,0.98876953,121.06599,2023.7549)">
+            <path
+               d="M 4.02,42 46,24 4.0200005,6 4.0000005,20 34,24 4,28 Z"
+               style="fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path364" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g366">
+        <g
+           id="g368"
+           clip-path="url(#clipPath372)">
+          <g
+             id="g374"
+             transform="matrix(0.98876953,0,0,0.98876953,121.06599,2146.8945)">
+            <path
+               d="M 4.02,42 46,24 4.0200005,6 4.0000005,20 34,24 4,28 Z"
+               style="fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path376" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g378">
+        <g
+           id="g380"
+           clip-path="url(#clipPath384)">
+          <g
+             id="g386"
+             transform="matrix(3.125,0,0,3.125,119.54867,3087.4895)">
+            <path
+               d="M 0,1 H 717.18964"
+               style="fill:none;stroke:#545454;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path388" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g390">
+        <g
+           id="g392"
+           clip-path="url(#clipPath396)">
+          <g
+             id="g398"
+             clip-path="url(#clipPath402)">
+            <g
+               id="g404"
+               clip-path="url(#clipPath408)">
+              <g
+                 id="g410"
+                 clip-path="url(#clipPath414)">
+                <g
+                   id="g416"
+                   transform="matrix(0.09664361,0,0,0.09664361,129.71413,3140.6184)">
+                  <path
+                     d="M 0,0 H 256 V 256 H 0 Z"
+                     style="fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path418" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g420">
+        <g
+           id="g422"
+           clip-path="url(#clipPath426)">
+          <g
+             id="g428"
+             clip-path="url(#clipPath432)">
+            <g
+               id="g434"
+               clip-path="url(#clipPath438)">
+              <g
+                 id="g440"
+                 clip-path="url(#clipPath444)">
+                <g
+                   id="g446"
+                   transform="matrix(0.09664361,0,0,0.09664361,129.71413,3270.3457)">
+                  <path
+                     d="M 0,0 H 256 V 256 H 0 Z"
+                     style="fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path448" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g450">
+        <g
+           id="g452"
+           clip-path="url(#clipPath456)">
+          <g
+             id="g458"
+             transform="matrix(3.0878472,0,0,3.0878472,119.54867,2429.0278)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text462"><tspan
+                 x="0 14.656311 29.312622 43.968933 58.625244 73.281555 87.937866 102.59418 117.25049 131.9068 146.56311 161.21942 175.87573"
+                 y="0"
+                 id="tspan460">项⽬名称：企业财务优化项⽬</tspan></text>
+          </g>
+          <g
+             id="g464"
+             transform="matrix(3.0878472,0,0,3.0878472,1757.8799,2429.0278)">
+            <text
+               xml:space="preserve"
+               transform="translate(60.15625,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text468"><tspan
+                 x="0 8.6325684 17.265137 26.454636 35.644135 40.40744 49.596939 58.786438 62.113419 67.536255 72.959091 76.286072 84.91864 93.551208 102.74071 111.93021 116.69351 125.88301"
+                 y="0"
+                 id="tspan466">20XX.XX -- 20XX.XX</tspan></text>
+          </g>
+          <g
+             id="g470"
+             transform="matrix(3.0878375,0,0,3.0878375,208.61792,2491.5051)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,15)"
+               style="font-variant:normal;font-weight:bold;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text474"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366"
+                 y="0"
+                 id="tspan472">企业分析：</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(60.015625,15)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text478"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641 96.000732 108.00082 120.00092 132.00101 144.0011 156.00119 168.00128 180.00137 192.00146 204.00156 216.00165 228.00174 240.00183 252.00192 264.00201 276.00211 288.0022 300.00229 312.00238 324.00247 336.00256 342.6626 354.66269"
+                 y="0"
+                 id="tspan476">分析企业财务情况，识别潜在⻛险和问题，并撰写企业研究报告2份。</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(0,36)"
+               style="font-variant:normal;font-weight:bold;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text482"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366"
+                 y="0"
+                 id="tspan480">优化流程：</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(60.015625,36)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text486"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641 96.000732 108.00082 120.00092 132.00101 144.0011 156.00119 168.00128"
+                 y="0"
+                 id="tspan484">协助实施改进措施，并监督效果。</tspan></text>
+          </g>
+          <g
+             id="g488"
+             transform="matrix(3.0878472,0,0,3.0878472,119.54867,2306.3069)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,19)"
+               style="font-variant:normal;font-weight:bold;font-size:17.33px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text492"><tspan
+                 x="0 17.328018 34.656036 51.984055"
+                 y="0"
+                 id="tspan490">项⽬经历</tspan></text>
+          </g>
+          <g
+             id="g494"
+             transform="matrix(3.0878472,0,0,3.0878472,119.54867,531.01294)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text498"><tspan
+                 x="0 14.656311 29.312622 43.968933 58.625244 61.952225 76.608536"
+                 y="0"
+                 id="tspan496">可⽡⼤学 硕⼠</tspan></text>
+          </g>
+          <g
+             id="g500"
+             transform="matrix(3.0878472,0,0,3.0878472,830.08508,531.01294)">
+            <text
+               xml:space="preserve"
+               transform="translate(94.484375,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text504"><tspan
+                 x="0 14.656311 29.312622 32.639603 47.295914 61.952225"
+                 y="0"
+                 id="tspan502">会计 商学院</tspan></text>
+          </g>
+          <g
+             id="g506"
+             transform="matrix(3.0878472,0,0,3.0878472,1757.8799,531.01294)">
+            <text
+               xml:space="preserve"
+               transform="translate(60.15625,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text510"><tspan
+                 x="0 8.6325684 17.265137 26.454636 35.644135 40.40744 49.596939 58.786438 62.113419 67.536255 72.959091 76.286072 84.91864 93.551208 102.74071 111.93021 116.69351 125.88301"
+                 y="0"
+                 id="tspan508">20XX.XX -- 20XX.XX</tspan></text>
+          </g>
+          <g
+             id="g512"
+             transform="matrix(3.0878375,0,0,3.0878375,208.61792,593.49048)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,15)"
+               style="font-variant:normal;font-weight:bold;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text516"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366"
+                 y="0"
+                 id="tspan514">专业成绩：</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(60.015625,15)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text520"><tspan
+                 x="0 8.2680511 15.852112 23.136169 25.824188 32.484238 35.820267 42.480316 47.184357 53.844406 56.532425 68.532516 80.532608 92.5327 104.53279 111.19284 117.85289 128.90497"
+                 y="0"
+                 id="tspan518">GPA 3.5/4 （专业前20%）</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(0,36)"
+               style="font-variant:normal;font-weight:bold;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text524"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366"
+                 y="0"
+                 id="tspan522">主修课程：</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(60.015625,36)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text528"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641 96.000732 108.00082 120.00092 132.00101 144.0011 156.00119 168.00128 180.00137 192.00146 204.00156 216.00165 228.00174"
+                 y="0"
+                 id="tspan526">财务会计、国际财务报告准则研究、公司⾦融</tspan></text>
+          </g>
+          <g
+             id="g530"
+             transform="matrix(3.0878472,0,0,3.0878472,119.54867,408.29211)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,19)"
+               style="font-variant:normal;font-weight:bold;font-size:17.33px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text534"><tspan
+                 x="0 17.328018 34.656036 51.984055"
+                 y="0"
+                 id="tspan532">教育背景</tspan></text>
+          </g>
+          <g
+             id="g536"
+             transform="matrix(3.0878472,0,0,3.0878472,119.54867,727.21094)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text540"><tspan
+                 x="0 14.656311 29.312622 43.968933 58.625244 61.952225 76.608536"
+                 y="0"
+                 id="tspan538">可⽡⼤学 本科</tspan></text>
+          </g>
+          <g
+             id="g542"
+             transform="matrix(3.0878472,0,0,3.0878472,830.08508,727.21094)">
+            <text
+               xml:space="preserve"
+               transform="translate(87.15625,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text546"><tspan
+                 x="0 14.656311 29.312622 43.968933 47.295914 61.952225 76.608536"
+                 y="0"
+                 id="tspan544">经济学 商学院</tspan></text>
+          </g>
+          <g
+             id="g548"
+             transform="matrix(3.0878472,0,0,3.0878472,1757.8799,727.21094)">
+            <text
+               xml:space="preserve"
+               transform="translate(60.15625,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text552"><tspan
+                 x="0 8.6325684 17.265137 26.454636 35.644135 40.40744 49.596939 58.786438 62.113419 67.536255 72.959091 76.286072 84.91864 93.551208 102.74071 111.93021 116.69351 125.88301"
+                 y="0"
+                 id="tspan550">20XX.XX -- 20XX.XX</tspan></text>
+          </g>
+          <g
+             id="g554"
+             transform="matrix(3.0878375,0,0,3.0878375,208.61792,789.68842)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,15)"
+               style="font-variant:normal;font-weight:bold;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text558"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366"
+                 y="0"
+                 id="tspan556">专业成绩：</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(60.015625,15)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text562"><tspan
+                 x="0 8.2680511 15.852112 23.136169 25.824188 32.484238 35.820267 42.480316 47.184357 53.844406 56.532425 68.532516 80.532608 92.5327 104.53279 111.19284 117.85289 128.90497"
+                 y="0"
+                 id="tspan560">GPA 3.6/4 （专业前20%）</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(0,36)"
+               style="font-variant:normal;font-weight:bold;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text566"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366"
+                 y="0"
+                 id="tspan564">主修课程：</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(60.015625,36)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text570"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641 96.000732 108.00082 120.00092 132.00101 144.0011 156.00119 168.00128 180.00137 192.00146 204.00156 216.00165 228.00174 240.00183 252.00192 264.00201 276.00211 288.0022 300.00229 312.00238 324.00247"
+                 y="0"
+                 id="tspan568">数学分析、⾦融经济学、国际⾦融学、企业财务报表处理与分析</tspan></text>
+          </g>
+          <g
+             id="g572"
+             transform="matrix(3.0878472,0,0,3.0878472,119.54867,954.737)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,19)"
+               style="font-variant:normal;font-weight:bold;font-size:17.33px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text576"><tspan
+                 x="0 17.328018 34.656036 51.984055"
+                 y="0"
+                 id="tspan574">⼯作经历</tspan></text>
+          </g>
+          <g
+             id="g578"
+             transform="matrix(3.0878472,0,0,3.0878472,119.54867,1077.9408)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text582"><tspan
+                 x="0 14.656311 29.312622 43.968933 58.625244 73.281555 87.937866 102.59418"
+                 y="0"
+                 id="tspan580">某某会计师事务所</tspan></text>
+          </g>
+          <g
+             id="g584"
+             transform="matrix(3.0878472,0,0,3.0878472,830.08508,1077.9408)">
+            <text
+               xml:space="preserve"
+               transform="translate(70.640625,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text588"><tspan
+                 x="0 14.656311 29.312622 43.968933 58.625244 73.281555 76.608536 85.798035 94.987534 109.64384"
+                 y="0"
+                 id="tspan586">财务实习⽣ XX部⻔</tspan></text>
+          </g>
+          <g
+             id="g590"
+             transform="matrix(3.0878472,0,0,3.0878472,1757.8799,1077.9408)">
+            <text
+               xml:space="preserve"
+               transform="translate(60.15625,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text594"><tspan
+                 x="0 8.6325684 17.265137 26.454636 35.644135 40.40744 49.596939 58.786438 62.113419 67.536255 72.959091 76.286072 84.91864 93.551208 102.74071 111.93021 116.69351 125.88301"
+                 y="0"
+                 id="tspan592">20XX.XX -- 20XX.XX</tspan></text>
+          </g>
+          <g
+             id="g596"
+             transform="matrix(3.0878375,0,0,3.0878375,208.61792,1140.4183)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,15)"
+               style="font-variant:normal;font-weight:bold;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text600"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366"
+                 y="0"
+                 id="tspan598">账⽬核对：</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(60.015625,15)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text604"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641 96.000732 108.00082 120.00092 132.00101 144.0011 156.00119 168.00128 180.00137 192.00146 204.00156 216.00165 228.00174 240.00183 252.00192 264.00201 276.00211 288.0022 300.00229 312.00238 324.00247 336.00256 348.00266 360.00275 372.00284 384.00293 396.00302 408.00311 420.0032 432.0033 444.00339 456.00348 468.00357 480.00366 492.00375 504.00385 516.00391 528.00403 540.00415 552.00427 564.00439 576.00452 588.00464 600.00476"
+                 y="0"
+                 id="tspan602">协助会计师进⾏账⽬核对和凭证录⼊，通过仔细审查账⽬，确保财务数据的准确性，为准确编制财务报告提供⽀持。</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(0,36)"
+               style="font-variant:normal;font-weight:bold;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text608"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366"
+                 y="0"
+                 id="tspan606">编织报表：</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(60.015625,36)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text612"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641 96.000732 108.00082 120.00092 132.00101 144.0011 156.00119 168.00128 180.00137 192.00146 204.00156 216.00165 228.00174 240.00183 252.00192 264.00201 276.00211 288.0022 300.00229 312.00238 324.00247 336.00256 348.00266 360.00275 372.00284 384.00293 396.00302 408.00311 420.0032 432.0033 444.00339 456.00348 468.00357 480.00366 492.00375 504.00385 516.00391 528.00403 540.00415 552.00427 564.00439 576.00452 588.00464 600.00476 612.00488"
+                 y="0"
+                 id="tspan610">与财务团队紧密合作，收集并整理财务数据，准确计算财务指标和⽐率，确保报表的准确性和及时性。在编制财务报表</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(0,57)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text616"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641 96.000732 108.00082 120.00092 132.00101 144.0011 156.00119 168.00128 180.00137 192.00146 204.00156 216.00165 228.00174 240.00183 252.00192 264.00201 276.00211 288.0022 300.00229 312.00238 324.00247 336.00256 348.00266 360.00275 372.00284 384.00293 396.00302 408.00311 420.0032 432.0033 444.00339 456.00348 468.00357 480.00366 492.00375 504.00385"
+                 y="0"
+                 id="tspan614">的过程中，我将确保合规性，遵循相关会计准则和税法规定，以确保财务报告的合法性和可靠性。</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(0,78)"
+               style="font-variant:normal;font-weight:bold;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text620"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366"
+                 y="0"
+                 id="tspan618">⽇常⼯作：</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(60.015625,78)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text624"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641 96.000732 108.00082 120.00092 132.00101 144.0011 156.00119 168.00128 180.00137 192.00146 204.00156 216.00165 228.00174 240.00183 252.00192 264.00201 276.00211 288.0022 300.00229 312.00238 324.00247 336.00256 348.00266 360.00275 372.00284 384.00293 396.00302 408.00311 420.0032 432.0033 444.00339 456.00348 468.00357 480.00366 492.00375 504.00385 516.00391 528.00403 540.00415 552.00427"
+                 y="0"
+                 id="tspan622">协助进⾏内部控制和⻛险评估⼯作，协助部⻔确保组织的财务运作符合规范，并提供有关改进措施的建议。</tspan></text>
+          </g>
+          <g
+             id="g626"
+             transform="matrix(3.0878472,0,0,3.0878472,119.54867,1403.828)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text630"><tspan
+                 x="0 14.656311 29.312622 43.968933 58.625244 73.281555 87.937866 102.59418 117.25049 131.9068"
+                 y="0"
+                 id="tspan628">某某证券股份有限公司</tspan></text>
+          </g>
+          <g
+             id="g632"
+             transform="matrix(3.0878472,0,0,3.0878472,830.08508,1403.828)">
+            <text
+               xml:space="preserve"
+               transform="translate(85.296875,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text636"><tspan
+                 x="0 14.656311 29.312622 43.968933 47.295914 56.485413 65.674911 80.331223"
+                 y="0"
+                 id="tspan634">实习⽣ XX部⻔</tspan></text>
+          </g>
+          <g
+             id="g638"
+             transform="matrix(3.0878472,0,0,3.0878472,1757.8799,1403.828)">
+            <text
+               xml:space="preserve"
+               transform="translate(60.15625,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text642"><tspan
+                 x="0 8.6325684 17.265137 26.454636 35.644135 40.40744 49.596939 58.786438 62.113419 67.536255 72.959091 76.286072 84.91864 93.551208 102.74071 111.93021 116.69351 125.88301"
+                 y="0"
+                 id="tspan640">20XX.XX -- 20XX.XX</tspan></text>
+          </g>
+          <g
+             id="g644"
+             transform="matrix(3.0878375,0,0,3.0878375,208.61792,1466.3055)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,15)"
+               style="font-variant:normal;font-weight:bold;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text648"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366"
+                 y="0"
+                 id="tspan646">材料撰写：</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(60.015625,15)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text652"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641 96.000732 108.00082 120.00092 132.00101 144.0011 156.00119 168.00128 180.00137 192.00146 204.00156 216.00165 228.00174 240.00183 252.00192 264.00201 276.00211 288.0022 300.00229 312.00238 324.00247 336.00256 348.00266 360.00275 372.00284 384.00293 396.00302 408.00311 420.0032 432.0033 444.00339 456.00348 468.00357 480.00366"
+                 y="0"
+                 id="tspan650">参与撰写、修改多份募集说明书，计算动静态下现⾦流等重要财务指标，核对财务重要数据。</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(0,36)"
+               style="font-variant:normal;font-weight:bold;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text656"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366"
+                 y="0"
+                 id="tspan654">尽职调查：</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(60.015625,36)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text660"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641 96.000732 108.00082 120.00092 132.00101 144.0011 156.00119 168.00128 180.00137 192.00146 204.00156 216.00165 228.00174 240.00183 252.00192 264.00201 276.00211 288.0022 300.00229 312.00238 324.00247 336.00256 348.00266 360.00275"
+                 y="0"
+                 id="tspan658">协助项⽬组尽职调查，就重⼤未决诉讼、关联交易、警⽰函处理情况。</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(0,57)"
+               style="font-variant:normal;font-weight:bold;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text664"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366"
+                 y="0"
+                 id="tspan662">⽇常⼯作：</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(60.015625,57)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text668"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641 96.000732 108.00082 120.00092 132.00101 141.62508 144.92509 152.25714 159.69719 171.69728 183.69737 195.69746 207.69756 219.69765 231.69774 243.69783 255.69792 267.698 279.69809 291.69818 303.69827 315.69836 327.69846 339.69855 351.69864 363.69873 375.69882 387.69891 399.69901 411.6991 423.69919"
+                 y="0"
+                 id="tspan666">协助部⻔整理公告，借助wind收集数据、完成报销⼯作，做好⽇常的会议纪要等。</tspan></text>
+          </g>
+          <g
+             id="g670"
+             transform="matrix(3.0878375,0,0,3.0878375,208.61792,2773.6138)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,15)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text674"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 55.272415 59.17244 63.072464 66.372482 72.48053 79.128571 91.128662 103.12875 115.12885"
+                 y="0"
+                 id="tspan672">熟练使⽤office办公软件</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(0,36)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text678"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 55.656418 62.316467 68.976517 80.976608 88.608658 100.60875 111.72083 118.48888 123.01291 126.43294 133.20099 140.61703 152.61713 160.20119 166.45323 170.97726 178.26132 185.53337 192.86542 204.86551 216.8656 228.86569 240.86578 252.86588 264.86597 276.86606 288.86615 300.86624 312.86633 324.86642 336.86652 346.4906 349.79062 357.12268 364.56274 376.56284 388.56293 400.56302 412.56311 424.5632"
+                 y="0"
+                 id="tspan676">熟练掌握C++、R、matlab、Python等编程语⾔软件、熟练使⽤wind、⾦蝶及⽤友</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(0,57)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text682"><tspan
+                 x="0 12.000092 24.000183 36.000275 38.688293 46.344345 53.400391 60.58844 64.752472 71.412521 83.412613 90.072662 96.732712 103.39276 115.39285 123.0489 130.10495 137.293 141.45703 148.11708 160.11717 166.77722 173.43727"
+                 y="0"
+                 id="tspan680">英语： CET-6：596，CET-4：605</tspan></text>
+          </g>
+          <g
+             id="g684"
+             transform="matrix(3.0878472,0,0,3.0878472,119.54867,2656.554)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,19)"
+               style="font-variant:normal;font-weight:bold;font-size:17.33px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text688"><tspan
+                 x="0 17.328018 34.656036 51.984055"
+                 y="0"
+                 id="tspan686">个⼈技能</tspan></text>
+          </g>
+          <g
+             id="g690"
+             transform="matrix(3.2433286,0,0,3.2433286,914.65442,194.22708)">
+            <text
+               xml:space="preserve"
+               transform="translate(59.96875,30)"
+               style="font-variant:normal;font-weight:bold;font-size:26.93px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text694"><tspan
+                 x="0 26.921982 53.843964"
+                 y="0"
+                 id="tspan692">李⼩画</tspan></text>
+          </g>
+          <g
+             id="g696"
+             transform="matrix(3.0878472,0,0,3.0878472,413.33307,337.29465)">
+            <text
+               xml:space="preserve"
+               transform="translate(5.25,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text700"><tspan
+                 x="0 14.656311 29.312622 43.968933 58.625244"
+                 y="0"
+                 id="tspan698">⼿机号码：</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(78.546875,15)"
+               style="font-variant:normal;font-weight:normal;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text704"><tspan
+                 x="0 8.1342468 16.268494 24.40274 32.536987 40.671234 48.805481 56.939728 65.073975 73.208221 81.342468"
+                 y="0"
+                 id="tspan702">13066668888</tspan></text>
+          </g>
+          <g
+             id="g706"
+             transform="matrix(3.0878472,0,0,3.0878472,976.89398,337.29465)">
+            <text
+               xml:space="preserve"
+               transform="translate(6.21875,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text710"><tspan
+                 x="0 14.656311 29.312622"
+                 y="0"
+                 id="tspan708">邮箱：</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(50.203125,15)"
+               style="font-variant:normal;font-weight:normal;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text714"><tspan
+                 x="0 7.4600525 16.415054 23.2742 32.170578 41.257492 50.344406 59.22612 64.912766 70.438187 84.303055 91.763107 100.02927 108.98427 116.62021 124.88637 128.96082 136.42087 145.30258"
+                 y="0"
+                 id="tspan712">cnsupport@canva.com</tspan></text>
+          </g>
+          <g
+             id="g716"
+             transform="matrix(3.125,0,0,3.125,1670.2274,336.92316)">
+            <text
+               xml:space="preserve"
+               transform="translate(12.765625,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.49px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text720"><tspan
+                 x="0 14.484406 28.968811 43.453217 57.937622"
+                 y="0"
+                 id="tspan718">求职意向：</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(85.203125,15)"
+               style="font-variant:normal;font-weight:normal;font-size:14.49px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text724"><tspan
+                 x="0 14.484406"
+                 y="0"
+                 id="tspan722">财务</tspan></text>
+          </g>
+          <g
+             id="g726"
+             transform="matrix(3.0878472,0,0,3.0878472,940.13049,337.29465)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text730"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan728">｜</tspan></text>
+          </g>
+          <g
+             id="g732"
+             transform="matrix(3.0878472,0,0,3.0878472,1633.4641,337.29465)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text736"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan734">｜</tspan></text>
+          </g>
+          <g
+             id="g738"
+             transform="matrix(3.0878472,0,0,3.0878472,119.54867,1696.1986)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,19)"
+               style="font-variant:normal;font-weight:bold;font-size:17.33px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text742"><tspan
+                 x="0 17.328018 34.656036 51.984055"
+                 y="0"
+                 id="tspan740">校园经历</tspan></text>
+          </g>
+          <g
+             id="g744"
+             transform="matrix(3.0878472,0,0,3.0878472,119.54867,1819.4025)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text748"><tspan
+                 x="0 14.656311 29.312622 43.968933 58.625244 73.281555 87.937866 102.59418 117.25049"
+                 y="0"
+                 id="tspan746">可⽡学志愿服务中⼼</tspan></text>
+          </g>
+          <g
+             id="g750"
+             transform="matrix(3.0878472,0,0,3.0878472,830.08508,1819.4025)">
+            <text
+               xml:space="preserve"
+               transform="translate(87.15625,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text754"><tspan
+                 x="0 14.656311 29.312622 43.968933 47.295914 61.952225 76.608536"
+                 y="0"
+                 id="tspan752">秘书部 秘书⻓</tspan></text>
+          </g>
+          <g
+             id="g756"
+             transform="matrix(3.0878472,0,0,3.0878472,1757.8799,1819.4025)">
+            <text
+               xml:space="preserve"
+               transform="translate(60.15625,15)"
+               style="font-variant:normal;font-weight:bold;font-size:14.66px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text760"><tspan
+                 x="0 8.6325684 17.265137 26.454636 35.644135 40.40744 49.596939 58.786438 62.113419 67.536255 72.959091 76.286072 84.91864 93.551208 102.74071 111.93021 116.69351 125.88301"
+                 y="0"
+                 id="tspan758">20XX.XX -- 20XX.XX</tspan></text>
+          </g>
+          <g
+             id="g762"
+             transform="matrix(3.0878375,0,0,3.0878375,208.61792,1881.88)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,15)"
+               style="font-variant:normal;font-weight:bold;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text766"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641"
+                 y="0"
+                 id="tspan764">组织和协调⼯作：</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(96.015625,15)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text770"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641 96.000732 108.00082 120.00092 132.00101 144.0011 156.00119 168.00128 180.00137 192.00146 204.00156 216.00165 228.00174 240.00183 252.00192 264.00201 276.00211 288.0022 300.00229 312.00238 324.00247 336.00256 348.00266 360.00275 372.00284 384.00293 396.00302 408.00311 420.0032 432.0033 444.00339 456.00348 468.00357 480.00366 492.00375 504.00385 516.00391 528.00403 540.00415"
+                 y="0"
+                 id="tspan768">负责组织和协调秘书部的⽇常⼯作。与志愿者部⻔和其他相关部⻔合作，确保志愿服务活动的顺利进⾏。</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(0,36)"
+               style="font-variant:normal;font-weight:bold;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text774"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641"
+                 y="0"
+                 id="tspan772">⽂件管理和归档：</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(96.015625,36)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text778"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641 96.000732 108.00082 120.00092 132.00101 144.0011 156.00119 168.00128 180.00137 192.00146 204.00156 216.00165 228.00174 240.00183 252.00192 264.00201 276.00211 288.0022 300.00229 312.00238 324.00247 336.00256 348.00266 360.00275 372.00284 384.00293 396.00302 408.00311 420.0032"
+                 y="0"
+                 id="tspan776">负责⽂件管理和归档⼯作，确保⽂件的整理、分类和存档，以便⽇后查阅和使⽤。</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(0,57)"
+               style="font-variant:normal;font-weight:bold;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text782"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641 96.000732"
+                 y="0"
+                 id="tspan780">志愿者培训和指导：</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(108.01563,57)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text786"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641 96.000732 108.00082 120.00092 132.00101 144.0011 156.00119 168.00128 180.00137 192.00146 204.00156 216.00165 228.00174 240.00183 252.00192 264.00201 276.00211 288.0022 300.00229 312.00238 324.00247 336.00256 348.00266 360.00275 372.00284 384.00293 396.00302 408.00311 420.0032 432.0033 444.00339 456.00348 468.00357 480.00366 492.00375 504.00385 516.00391 528.00403 540.00415 552.00427 564.00439"
+                 y="0"
+                 id="tspan784">负责对新加⼊的志愿者进⾏培训和指导，使其了解志愿服务中⼼的⼯作原则和规范。同时，定期组织志愿者培</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(0,78)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text790"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641 96.000732 108.00082 120.00092 132.00101 144.0011 156.00119 168.00128 180.00137 192.00146 204.00156 216.00165 228.00174 240.00183 252.00192"
+                 y="0"
+                 id="tspan788">训和⼯作坊，提升志愿者的专业素养和服务质量。</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(0,99)"
+               style="font-variant:normal;font-weight:bold;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text794"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641"
+                 y="0"
+                 id="tspan792">团队管理和发展：</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(96.015625,99)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text798"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641 96.000732 108.00082 120.00092 132.00101 144.0011 156.00119 168.00128 180.00137 192.00146 204.00156 216.00165 228.00174 240.00183 252.00192 264.00201 276.00211 288.0022 300.00229 312.00238 324.00247 336.00256 348.00266 360.00275 372.00284 384.00293 396.00302 408.00311 420.0032 432.0033 444.00339 456.00348 468.00357 480.00366 492.00375 504.00385 516.00391 528.00403 540.00415 552.00427 564.00439 576.00452"
+                 y="0"
+                 id="tspan796">负责秘书部团队的管理和发展：包括招募、培训和激励团队成员，建⽴良好的⼯作氛围和团队合作精神，实现团</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(0,120)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text802"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641 96.000732"
+                 y="0"
+                 id="tspan800">队⽬标和个⼈成⻓。</tspan></text>
+          </g>
+          <g
+             id="g804"
+             transform="matrix(3.0878375,0,0,3.0878375,208.61792,3120.5667)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,15)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text808"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641 96.000732 108.00082 120.00092 132.00101 144.0011 156.00119 168.00128 180.00137 192.00146 204.00156 216.00165 228.00174 240.00183 252.00192 264.00201 276.00211 288.0022 300.00229 312.00238 324.00247 336.00256 348.00266 360.00275 372.00284 384.00293 396.00302 408.00311 420.0032 432.0033 444.00339 456.00348 468.00357 480.00366 492.00375 504.00385 516.00391 528.00403 540.00415 552.00427 564.00439 576.00452 588.00464 600.00476 612.00488 624.005 636.00513 648.00525 660.00537 672.00549"
+                 y="0"
+                 id="tspan806">具备良好的数学和分析能⼒，能够快速理解和解决财务问题。熟悉财务报表的编制和财务分析的⽅法，能够准确地收集和整理财务</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(0,36)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text812"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641 96.000732 108.00082 120.00092 132.00101 144.0011 156.00119 168.00128 180.00137"
+                 y="0"
+                 id="tspan810">数据，并进⾏数据分析和报告撰写。</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="translate(0,57)"
+               style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text816"><tspan
+                 x="0 12.000092 24.000183 36.000275 48.000366 60.000458 72.000549 84.000641 96.000732 108.00082 120.00092 132.00101 144.0011 156.00119 168.00128 180.00137 192.00146 204.00156 216.00165 228.00174 240.00183 252.00192 264.00201 276.00211 288.0022 300.00229 312.00238 324.00247 336.00256 348.00266 360.00275 372.00284 384.00293 396.00302 408.00311 420.0032 432.0033 444.00339 456.00348 468.00357 480.00366 492.00375 504.00385 516.00391 528.00403 540.00415 552.00427"
+                 y="0"
+                 id="tspan814">能够与团队成员和其他部⻔有效合作。注重细节和准确性，对财务数据的准确性和可靠性有⾼度的责任⼼。</tspan></text>
+          </g>
+          <g
+             id="g818"
+             transform="matrix(3.0878472,0,0,3.0878472,119.54867,3003.5068)">
+            <text
+               xml:space="preserve"
+               transform="translate(0,19)"
+               style="font-variant:normal;font-weight:bold;font-size:17.33px;font-family:'Source Code Pro';-inkscape-font-specification:SourceHanSansSC-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text822"><tspan
+                 x="0 17.328018 34.656036 51.984055"
+                 y="0"
+                 id="tspan820">⾃我评价</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path
+       d="m 28.69168,730.0738 h 537.8922 v 1.5 H 28.69168 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path824" />
+    <path
+       d="m 30.00213,695.22394 h 9.974901 v 8.55348 H 30.00213 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path826" />
+    <path
+       d="m 30.00213,679.3082 h 9.974901 v 8.55348 H 30.00213 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path828" />
+    <path
+       d="m 30.00213,648.1364 h 9.974901 v 8.55348 H 30.00213 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path830" />
+    <path
+       d="m 30.00213,632.2207 h 9.974901 v 8.55348 H 30.00213 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path832" />
+    <path
+       d="m 28.69168,598.927 h 537.8922 v 1.5 H 28.69168 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path834" />
+    <path
+       d="m 30.00213,563.96124 h 9.974901 v 8.55348 H 30.00213 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path836" />
+    <path
+       d="m 30.00213,548.04553 h 9.974901 v 8.55348 H 30.00213 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path838" />
+    <path
+       d="m 30.00213,516.2141 h 9.974901 v 8.55348 H 30.00213 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path840" />
+    <path
+       d="m 30.00213,485.74832 h 9.974901 v 8.55348 H 30.00213 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path842" />
+    <path
+       d="m 30.00213,469.65613 h 9.974901 v 8.55348 H 30.00213 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path844" />
+    <path
+       d="m 30.00213,453.5639 h 9.974901 v 8.55348 H 30.00213 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path846" />
+    <path
+       d="m 28.69168,420.97623 h 537.8922 v 1.5 H 28.69168 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path848" />
+    <path
+       d="m 30.00213,386.01047 h 9.974901 v 8.55348 H 30.00213 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path850" />
+    <path
+       d="m 30.00213,370.02588 h 9.974901 v 8.55348 H 30.00213 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path852" />
+    <path
+       d="m 30.00213,354.04126 h 9.974901 v 8.55348 H 30.00213 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path854" />
+    <path
+       d="m 30.00213,324.4878 h 9.974901 v 8.55348 H 30.00213 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path856" />
+    <path
+       d="m 28.69168,274.55917 h 537.8922 v 1.48217 H 28.69168 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path858" />
+    <path
+       d="m 30.00213,239.7004 h 9.974901 v 8.55348 H 30.00213 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path860" />
+    <path
+       d="m 30.00213,223.78468 h 9.974901 v 8.55348 H 30.00213 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path862" />
+    <path
+       d="m 28.69168,190.491 h 537.8922 v 1.5 H 28.69168 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path864" />
+    <path
+       d="m 31.131388,173.30223 h 5.937783 v 5.93778 h -5.937783 z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path866" />
+    <path
+       d="m 31.131388,157.73953 h 5.937783 v 5.93778 h -5.937783 z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path868" />
+    <path
+       d="m 31.131388,142.16766 h 5.937783 v 5.93778 h -5.937783 z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path870" />
+    <path
+       d="m 28.69168,107.22228 h 537.8922 v 1.5 H 28.69168 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path872" />
+    <path
+       d="m 31.131388,90.03352 h 5.937783 v 5.937783 h -5.937783 z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path874" />
+    <path
+       d="m 31.131388,58.898956 h 5.937783 v 5.937783 h -5.937783 z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       id="path876" />
+  </g>
+</svg>

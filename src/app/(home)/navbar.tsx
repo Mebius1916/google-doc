@@ -1,8 +1,8 @@
 import Link from "next/link";
 import Image from "next/image";
 import SearchInput from "./search-input";
-
-export const Narbar = () => {
+import { UserButton } from "@clerk/nextjs";
+export const Navbar = () => {
   return (
     <nav className="flex items-center justify-between h-full w-full p-4">
       <div className="flex gap-3 items-center shrink-0 pr-6">
@@ -12,9 +12,9 @@ export const Narbar = () => {
         <h3 className="text-xl">Docs</h3>
       </div>
       <SearchInput />
-      <div/>
+      <UserButton/>
     </nav>
   )
 }
 
-export default Narbar
+export default Navbar
