@@ -12,7 +12,7 @@ export default defineSchema({
   })
    .index("by_owner_id", ["ownerId"])          // 按所有者ID建立索引
    .index("by_organization_id", ["organizationId"]) // 按组织ID建立索引
-   .searchIndex("search_index", {              // 创建可搜索索引
+   .searchIndex("search_title", {              // 创建可搜索索引
       searchField: "title",                   // 可搜索的标题字段
       filterFields: ["ownerId", "organizationId"], // 可过滤字段
     })
