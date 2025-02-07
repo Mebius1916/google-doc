@@ -2,7 +2,7 @@ import { v, ConvexError } from "convex/values";
 import { mutation, query } from "./_generated/server";
 import { paginationOptsValidator } from "convex/server";
 
-// 创建新文档的 mutation 函数（用于修改数据库）
+// 创建新文档
 export const create = mutation({
   // 定义参数类型：
   // title: 可选的字符串，用于文档标题
@@ -22,15 +22,39 @@ export const create = mutation({
 
     // 在数据库中创建新文档
     return await ctx.db.insert("documents", {
-      // 如果没有提供标题，使用默认标题 "Untitled document"
       title: args.title ?? "Untitled coument",
-      // 存储文档所有者的 ID
       ownerId: user.subject,
-      // 存储文档的初始内容
       initialContent: args.initialContent,
     });
   }
 })
+
+// 删除文档
+export const removeById = mutation({
+  args: { id: v.id("documents") },
+  handler: async (ctx, args) => {
+    //首先检查用户是否已登录。如果未登录，抛出未授权错误。
+    const user = await ctx.auth.getUserIdentity();
+    if (!user) {
+      throw new ConvexError("Unauthorized");
+    }
+
+    // 获取文档数据
+    const document = await ctx.db.get(args.id);
+    if (!document) {
+      throw new ConvexError("Document not found");
+    }
+
+    // 检查用户是否是文档所有者
+    const isOwner = document.ownerId === user.subject;
+    if (!isOwner) {
+      throw new ConvexError("Unauthorized");
+    }
+
+    // 执行删除操作
+    return await ctx.db.delete(args.id);
+  },
+});
 
 // 连接documents数据库
 export const get = query({

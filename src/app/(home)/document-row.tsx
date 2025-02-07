@@ -4,7 +4,7 @@ import { Doc } from "../../../convex/_generated/dataModel";
 import { SiGoogledocs } from "react-icons/si";
 import { Building2Icon, CircleUserIcon, MoreVertical } from "lucide-react";
 import { format } from "date-fns";
-import DocumentMenu from "./document-menu";
+import {DocumentMenu} from "./document-menu";
 
 // 定义组件的 Props 接口
 interface DocumentRowProps {
@@ -34,7 +34,7 @@ export const DocumentRow = ({ document }: DocumentRowProps) => {
         {format(new Date(document._creationTime), "MMM dd, yyyy")}
       </TableCell>
       <TableCell className="flex justify-end">
-        <DocumentMenu/>
+        <DocumentMenu documentId={document._id} title={document.title} onNewTab={onNewTabClick}/>
       </TableCell>
     </TableRow>
   );
