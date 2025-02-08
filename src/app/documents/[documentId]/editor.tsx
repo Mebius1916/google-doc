@@ -20,8 +20,12 @@ import TextAlign from '@tiptap/extension-text-align'
 import { FontSizeExtension } from "@/extensions/font-size";
 import { LineHeightExtension } from "@/extensions/line-height";
 import { Ruler } from "./ruler";
+import {useLiveblocksExtension} from "@liveblocks/react-tiptap";
 export const Editor = () => {
+  const liveblocks = useLiveblocksExtension();
   const {setEditor} = useEditorStore();
+
+
 
   const editor = useEditor({
     immediatelyRender: false,//不立即渲染
@@ -59,6 +63,7 @@ export const Editor = () => {
     extensions: [
       FontSizeExtension,//自定义字体大小扩展
       StarterKit,
+      liveblocks,
       Underline,
       Highlight.configure({
         multicolor: true,

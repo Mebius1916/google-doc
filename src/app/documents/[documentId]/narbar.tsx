@@ -236,7 +236,9 @@ export const Navbar = () => {
             </Menubar>
           </div>
         </div>
-        <div className="flex items-center gap-3 pl-6" />
+      </div>
+      
+      <div className="ml-auto flex items-center gap-3">
         <OrganizationSwitcher
           afterCreateOrganizationUrl="/"
           afterLeaveOrganizationUrl="/"
