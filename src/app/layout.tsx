@@ -1,20 +1,12 @@
-import type { Metadata } from "next";
-import localFont from "next/font/local";
+import type { Metadata } from "next";;
 import { Inter } from "next/font/google";
 import {NuqsAdapter} from "nuqs/adapters/next/app";
 import "./globals.css";
 import { ConvexClientProvider } from "@/components/convex-client-provider";
+import { Toaster } from "sonner";
 
-const geistSans = localFont({
-  src: "./fonts/GeistVF.woff",
-  variable: "--font-geist-sans",
-  weight: "100 900",
-});
-const geistMono = localFont({
-  src: "./fonts/GeistMonoVF.woff",
-  variable: "--font-geist-mono",
-  weight: "100 900",
-});
+import "@liveblocks/react-tiptap/styles.css";
+import "@liveblocks/react-ui/styles.css";
 
 const inter =Inter({
   subsets: ["latin"],
@@ -37,6 +29,7 @@ export default function RootLayout({
       >
         <NuqsAdapter>
           <ConvexClientProvider>
+            <Toaster />
             {children}
           </ConvexClientProvider>
         </NuqsAdapter>

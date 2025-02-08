@@ -87,9 +87,9 @@ export const getToolbarSections = (editor?: Editor): ToolbarItem[][] => [
       label: "Comment",
       icon: MessageSquareIcon,
       onClick: () => {
-        console.log("Comment");
+        () => editor?.chain().focus().addPendingComment().run();
       },
-      isActive: false,
+      isActive: editor?.isActive("liveblocksCommentMark"),
       title: "Comment",
     },
     {

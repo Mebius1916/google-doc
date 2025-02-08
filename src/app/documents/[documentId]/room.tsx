@@ -13,15 +13,13 @@ export function Room({ children }: { children: ReactNode }) {
   const documentId = params.documentId as string;
   return (
     <LiveblocksProvider
-      publicApiKey={
-        "pk_dev_2SsTLo7xH2p94sw1kg8WV3c0mQqEM9s760rk4xRpDP5iMglkLs9HB-bUzn7Srikn"
-      }
+      throttle={16} //实时协作的频率60hz
+      authEndpoint="/api/liveblock-auth" //导入鉴权配置
     >
       <RoomProvider id={documentId}>
         <ClientSideSuspense fallback={<div>Loading…</div>}>
           {children}
         </ClientSideSuspense>
-
       </RoomProvider>
     </LiveblocksProvider>
   );

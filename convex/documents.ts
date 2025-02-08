@@ -42,7 +42,9 @@ export const removeById = mutation({
     if (!user) {
       throw new ConvexError("Unauthorized");
     }
-
+    const organizationId = (user.organization ?? undefined) as
+      | string
+      | undefined;
     // 获取文档数据
     const document = await ctx.db.get(args.id);
     if (!document) {
@@ -51,8 +53,9 @@ export const removeById = mutation({
 
     // 检查用户是否是文档所有者
     const isOwner = document.ownerId === user.subject;
-    const isOrganizationMember = document.organizationId === user.organization;
-    
+    const isOrganizationMember = !!(
+      document.organizationId && document.organizationId === organizationId
+    );
     if (!isOwner || !isOrganizationMember) {
       throw new ConvexError("Unauthorized");
     }
@@ -112,9 +115,9 @@ export const get = query({
           q.search("title", search).eq("organizationId", organizationId)
         )
         .paginate(paginationOpts);
-    }else
+    }
     //如果提供搜索参数
-    if (search) {
+    else if (search) {
       return await ctx.db
         .query("documents")
         //模糊搜索
@@ -124,11 +127,13 @@ export const get = query({
 
         .paginate(paginationOpts);
     }
-    if(organizationId){
+    if (organizationId) {
       return await ctx.db
         .query("documents")
         //严格搜索
-        .withIndex("by_organization_id", (q) => q.eq("organizationId", organizationId))
+        .withIndex("by_organization_id", (q) =>
+          q.eq("organizationId", organizationId)
+        )
         .paginate(paginationOpts);
     }
 
@@ -138,5 +143,17 @@ export const get = query({
 
       .withIndex("by_owner_id", (q) => q.eq("ownerId", user.subject))
       .paginate(paginationOpts);
+  },
+});
+
+// 获取单个文档
+export const getById = query({
+  args: { id: v.id("documents") },
+  handler: async (ctx, { id }) => {
+    const document = await ctx.db.get(id);
+    if (!document) {
+      throw new ConvexError("Document not found");
+    }
+    return document;
   },
 });
