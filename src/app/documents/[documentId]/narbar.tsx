@@ -34,6 +34,8 @@ import {
 } from "lucide-react";
 import { useEditorStore } from "@/store/use-editor-store";
 import { OrganizationSwitcher, UserButton } from "@clerk/nextjs";
+import { Avatars } from "./avatars";
+import { Inbox } from "./inbox";
 export const Navbar = () => {
   const { editor } = useEditorStore();
   const insertTable = (rows: number, cols: number) => {
@@ -239,11 +241,14 @@ export const Navbar = () => {
       </div>
       
       <div className="ml-auto flex items-center gap-3">
+        <Avatars/>
+        <Inbox/>
         <OrganizationSwitcher
           afterCreateOrganizationUrl="/"
           afterLeaveOrganizationUrl="/"
           afterSelectOrganizationUrl="/"
           afterSelectPersonalUrl="/"
+
         />
         <UserButton />
       </div>
