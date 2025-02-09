@@ -22,8 +22,11 @@ const Avatar = ({ src, name }: AvatarProps) => {
       <Image
         src={src}
         alt={`${name}`}
+        width={AVATAR_SIZE}
+        height={AVATAR_SIZE}
         className="rounded-full w-full h-full object-cover"
       />
+
       <div className="opacity-0 group-hover:opacity-100 absolute top-full py-1 px-2 text-white text-xs rounded-lg mt-2.5 z-10 bg-black whitespace-nowrap transition-opacity">
         {name}
       </div>

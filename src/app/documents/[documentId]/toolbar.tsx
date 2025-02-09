@@ -36,6 +36,7 @@ export const Toolbar = () => {
         <Separator orientation="vertical" className="h-6 bg-neutral-300" />
       </div>
       {/* TODO:Font size */}
+      <FontSizeButton />
       <div className="flex flex-col items-center justify-center">
         <Separator orientation="vertical" className="h-6 bg-neutral-300" />
       </div>
@@ -53,7 +54,6 @@ export const Toolbar = () => {
       <AlignButton />
       <ListButton />
       <LineHeightButton />
-      <FontSizeButton />
       {sections[2].map((item) => (
         <ToolbarButton key={item.label} {...item} />
       ))}
