@@ -64,7 +64,6 @@ const InboxMenu = () => {
           )}
         </DropdownMenuContent>
       </DropdownMenu>
-      <Separator orientation="vertical" className="h-6" />
     </>
   );
 };
