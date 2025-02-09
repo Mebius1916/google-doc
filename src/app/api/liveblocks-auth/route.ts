@@ -30,7 +30,7 @@ export async function POST(req: Request) {
   const document = await convex.query(api.documents.getById, {
     id: room,
   });
-  
+
   // 文档不存在时返回未授权
   if (!document) {
     return new Response("Unauthorized", { status: 401 });
@@ -53,17 +53,22 @@ export async function POST(req: Request) {
   // - 使用用户ID作为会话标识
   // - 携带用户信息（姓名优先使用全名，否则用邮箱，最后匿名）
   // - 提供用户头像URL
+  const name = user.fullName ?? user.primaryEmailAddress?.emailAddress ?? "Anonymous";
+  const nameToNumber = name.split("").reduce((acc, char) => acc + char.charCodeAt(0), 0);
+  const hue = Math.abs(nameToNumber) % 360;
+ const color = `hsl(${hue}, 80%, 60%)`;
   const session = liveblocks.prepareSession(user.id, {
     userInfo: {
-      name:
-        user.fullName ?? user.primaryEmailAddress?.emailAddress ?? "Anonymous",
-      avatar: user.imageUrl,
+        name,
+        avatar: user.imageUrl,
+        color,
     },
   });
-  
+
+
   // 授予该会话对指定房间的完全访问权限
   session.allow(room, session.FULL_ACCESS);
-  
+
   // 生成授权响应返回给客户端
   const { body, status } = await session.authorize();
   return new Response(body, { status });

@@ -1,6 +1,6 @@
 import { useEditorStore } from "@/store/use-editor-store";
 import { useState } from "react";
-import { ImageIcon, Link2Icon, SearchIcon, UploadIcon } from "lucide-react";
+import { ImageIcon, SearchIcon, UploadIcon } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import {
@@ -15,7 +15,6 @@ import {
   DialogFooter,
   DialogHeader,
   DialogTitle,
-  DialogTrigger,
 } from "@/components/ui/dialog";
 
 export const ImageButton = () => {

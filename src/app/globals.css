@@ -283,3 +283,7 @@ body {
     }
   }
 }
+/* 针对shadcn弹出框 */
+div[data-radix-popper-wrapper] {
+  z-index: 50 !important;
+}

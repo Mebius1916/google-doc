@@ -1,18 +1,38 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
 import { useRef, useState } from "react";
 import { Marker } from "@/components/maker";
+import { useMutation, useStorage } from "@liveblocks/react";
+import { LEFT_MARGIN_DEFAULT, RIGHT_MARGIN_DEFAULT } from "@/constants/margin";
 const markers = Array.from({ length: 83 }, (_, index) => index); //83个刻度
 export const Ruler = () => {
-  const [leftMargin, setLeftMargin] = useState(56);
-  const [rightMargin, setRightMargin] = useState(56);
+  const leftMargin =
+    useStorage((root: any) => {
+      return root.leftMargin;
+    }) ?? LEFT_MARGIN_DEFAULT;
+
+  const setLeftMargin = useMutation(({ storage }, position: number) => {
+    (storage as any).set("leftMargin", position);
+  }, []);
+
+  const rightMargin =
+    useStorage((root: any) => {
+      return root.rightMargin;
+    }) ?? RIGHT_MARGIN_DEFAULT;
+
+  const setRightMargin = useMutation(({ storage }, position: number) => {
+    (storage as any).set("rightMargin", position);
+  }, []);
+
   const [isDraggingLeft, setIsDraggingLeft] = useState(false);
   const [isDraggingRight, setIsDraggingRight] = useState(false);
   const rulerRef = useRef<HTMLDivElement>(null);
 
   // 鼠标按下事件（启动拖拽）
-  const handleMouseDownLeft = (e: React.MouseEvent<HTMLDivElement>) => {
+  const handleMouseDownLeft = () => {
     setIsDraggingLeft(true); // 设置左标记拖拽状态
   };
-  const handleMouseDownRight = (e: React.MouseEvent<HTMLDivElement>) => {
+  const handleMouseDownRight = () => {
     setIsDraggingRight(true); // 设置右标记拖拽状态
   };
 
@@ -68,7 +88,7 @@ export const Ruler = () => {
             newRightPosition,
             minRightPosition
           );
-          
+
           // 根据拖拽持续触发重新渲染
           setRightMargin(constrainedRightPosition);
         }
@@ -80,11 +100,11 @@ export const Ruler = () => {
     setIsDraggingRight(false);
   };
 
-  const handleLeftDoubleClick = (e: React.MouseEvent) => {
-    setLeftMargin(56);
+  const handleLeftDoubleClick = () => {
+    setLeftMargin(LEFT_MARGIN_DEFAULT);
   };
-  const handleRightDoubleClick = (e: React.MouseEvent) => {
-    setRightMargin(56);
+  const handleRightDoubleClick = () => {
+    setRightMargin(RIGHT_MARGIN_DEFAULT);
   };
 
   return (
@@ -95,10 +115,7 @@ export const Ruler = () => {
       onMouseLeave={handleMouseUp} // 鼠标离开事件（停止拖拽）
       className="w-[816px] mx-auto h-6 border-b border-gray-300 flex items-end relative select-none print:hidden"
     >
-      <div
-        id="ruler-container"
-        className="w-full h-full mx-auto relative"
-      >
+      <div id="ruler-container" className="w-full h-full mx-auto relative">
         <Marker
           position={leftMargin}
           isLeft={true}

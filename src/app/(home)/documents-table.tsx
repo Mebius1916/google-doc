@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import { Doc } from "../../../convex/_generated/dataModel";
 import { PaginationStatus } from "convex/react";
