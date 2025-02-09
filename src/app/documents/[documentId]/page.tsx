@@ -11,8 +11,7 @@ const DocumentIdPage = async ({ params }: DocumentIdPageProps) => {
   const { documentId } = await params;
 
   const { getToken } = await auth();
-  const token =
-    (getToken({ template: "convex" }) as unknown as string) ?? undefined;
+  const token = await getToken({ template: "convex" });
 
   if (!token) {
     throw new Error("Unauthorized");
