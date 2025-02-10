@@ -41,40 +41,41 @@ google-doc
 │  │  └─ 📄layout.tsx 布局组件
 │  ├─ 📁components toolbar组件
 │  │  ├─ 📁ui shadcnUI组件
-│  │  ├─ 📄alignButton.tsx 
-│  │  ├─ 📄convex-client-provider.tsx
-│  │  ├─ 📄fontFamilyButton.tsx
-│  │  ├─ 📄fontSizeButton.tsx
-│  │  ├─ 📄fullscreen-loader.tsx
-│  │  ├─ 📄headingButton.tsx
-│  │  ├─ 📄highLightButton.tsx
-│  │  ├─ 📄imageButton.tsx
-│  │  ├─ 📄lineHeightButton.tsx
-│  │  ├─ 📄linkButton.tsx
-│  │  ├─ 📄ListButton.tsx
-│  │  ├─ 📄maker.tsx
-│  │  ├─ 📄remove-dialog.tsx
-│  │  ├─ 📄rename-dialog.tsx
-│  │  ├─ 📄textColorButton.tsx
-│  │  └─ 📄toolBarButton.tsx
+│  │  ├─ 📄alignButton.tsx 文本对齐按钮组件
+│  │  ├─ 📄convex-client-provider.tsx Convex客户端Provider组件
+│  │  ├─ 📄fontFamilyButton.tsx 字体选择按钮组件
+│  │  ├─ 📄fontSizeButton.tsx 字号选择按钮组件
+│  │  ├─ 📄fullscreen-loader.tsx 全屏加载组件
+│  │  ├─ 📄headingButton.tsx 标题样式按钮组件
+│  │  ├─ 📄highLightButton.tsx 文本高亮按钮组件
+│  │  ├─ 📄imageButton.tsx 图片上传按钮组件
+│  │  ├─ 📄lineHeightButton.tsx 行高调整按钮组件
+│  │  ├─ 📄linkButton.tsx 超链接按钮组件
+│  │  ├─ 📄ListButton.tsx 列表样式按钮组件
+│  │  ├─ 📄maker.tsx 文档水印组件
+│  │  ├─ 📄remove-dialog.tsx 删除确认对话框组件
+│  │  ├─ 📄rename-dialog.tsx 重命名对话框组件
+│  │  ├─ 📄textColorButton.tsx 文字颜色按钮组件
+│  │  └─ 📄toolBarButton.tsx 工具栏按钮基础组件
 │  ├─ 📁constants
-│  │  ├─ 📄margin.ts
-│  │  └─ 📄templates.ts
+│  │  ├─ 📄margin.ts 边距抽离
+│  │  └─ 📄templates.ts 首页模板抽离
 │  ├─ 📁extensions
-│  │  ├─ 📄font-size.ts
-│  │  └─ 📄line-height.ts
+│  │  ├─ 📄font-size.ts 自定义字体大小扩展
+│  │  └─ 📄line-height.ts 自定义行高扩展
 │  ├─ 📁hooks
-│  │  ├─ 📄use-debounce.ts
-│  │  ├─ 📄use-mobile.tsx
-│  │  ├─ 📄use-search-params.ts
-│  │  └─ 📄use-toast.ts
+│  │  ├─ 📄use-debounce.ts 自定义防抖hook
+│  │  ├─ 📄use-mobile.tsx shadcn自带hook
+│  │  ├─ 📄use-search-params.ts 基于nuqs的useQueryState封装
+│  │  └─ 📄use-toast.ts shadcn自带hook
 │  ├─ 📁lib
-│  │  ├─ 📄useSections.ts
-│  │  └─ 📄utils.ts
+│  │  ├─ 📄useSections.ts 工具栏配置抽离
+│  │  └─ 📄utils.ts cn函数
 │  ├─ 📁store
-│  │  └─ 📄use-editor-store.ts
-│  └─ 📄middleware.ts
+│  │  └─ 📄use-editor-store.ts zustand状态管理
+│  └─ 📄middleware.ts  clerk中间件
 ```
+
 
 #### 联动流程
 1. 用户通过Clerk登录 → 获取JWT令牌
